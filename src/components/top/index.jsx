@@ -13,7 +13,7 @@ export const Top = ({ title, location, rootPath }) => {
   const subLinks = [
     {
       to: "/bio",
-      label: "Bio",
+      label: "About",
     },
     {
       to: "/resume",
