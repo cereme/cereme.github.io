@@ -5,7 +5,7 @@ import { Layout } from '../layout'
 import { rhythm } from '../utils/typography'
 import * as Lang from '../constants'
 
-export default ({ data }) => {
+export default ({ data, location }) => {
   const { siteMetadata } = data.site
   const abouts = data.allMarkdownRemark.edges
   const about = abouts
