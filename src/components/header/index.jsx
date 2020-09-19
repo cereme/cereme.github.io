@@ -3,15 +3,21 @@ import { Link } from 'gatsby'
 
 import './index.scss'
 
-export const Header = ({ title, location, rootPath }) => {
+export const Header = ({ title, location, rootPath, shortDescription }) => {
   const isRoot = location.pathname === rootPath
   return (
     isRoot && (
-      <h1 className="home-header">
-        <Link to={`/`} className="link">
-          {title}
+      <div className="header-container">
+        <h1 className="home-header">
+          <Link to={`/`} className="link">
+            {title}
+          </Link>
+        </h1>
+        <Link to={`/bio`} className="shortDescription-header link">
+          {shortDescription}
         </Link>
-      </h1>
+      </div>
+
     )
   )
 }

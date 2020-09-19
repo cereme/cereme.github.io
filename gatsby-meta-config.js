@@ -1,6 +1,7 @@
 module.exports = {
   title: `cereme.dev`,
   description: `<meta.description>`,
+  shortDescription: `Sang yun Pae, Software Engineer`,
   author: `cereme`,
   introduction: `<meta.introduction>`,
   siteUrl: `https://new.cereme.dev`, // Your blog site url

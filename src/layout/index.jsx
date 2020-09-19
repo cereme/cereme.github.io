@@ -8,7 +8,7 @@ import { rhythm } from '../utils/typography'
 
 import './index.scss'
 
-export const Layout = ({ location, title, children }) => {
+export const Layout = ({ location, title, shortDescription, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
 
   return (
@@ -23,7 +23,7 @@ export const Layout = ({ location, title, children }) => {
           padding: `${rhythm(1)} ${rhythm(3 / 4)}`,
         }}
       >
-        <Header title={title} location={location} rootPath={rootPath} />
+        <Header title={title} location={location} rootPath={rootPath} shortDescription={shortDescription} />
         {children}
         <Footer />
       </div>
