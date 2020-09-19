@@ -13,8 +13,15 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/__about`,
-        name: `about`,
+        path: `${__dirname}/content/__resume`,
+        name: `resume`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/__bio`,
+        name: `bio`,
       },
     },
     {

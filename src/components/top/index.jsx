@@ -12,15 +12,15 @@ export const Top = ({ title, location, rootPath }) => {
   const toggleHamburgerMenuVisible = () => { setHamburgerMenuVisible(e => !e) }
   const subLinks = [
     {
-      to: "/",
+      to: "/bio",
       label: "Bio",
     },
     {
-      to: "/",
+      to: "/resume",
       label: "Resume",
     },
     {
-      to: "/",
+      to: "/apps",
       label: "Apps",
     },
   ]
