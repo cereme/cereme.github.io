@@ -6,6 +6,9 @@ type: about
 
 # 배상윤(cereme, Sang yun Pae)
 
+![](https://progress-bar.dev/0/?title=%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%20%20%20&scale=1000&suffix=%EB%AF%B8%ED%8E%B8%EC%9E%85)
+![](https://badgen.net/badge/%EC%97%AD%EC%A2%85/%ED%98%84%EC%97%AD/green/)
+
 제품을 만들어내고 문제를 해결하는 것이 너무 즐거운 소프트웨어 개발자입니다.
 
 제품 팀을 위해 어떤 형태로든 기여하는 것을 즐기는 팀플레이어입니다.
