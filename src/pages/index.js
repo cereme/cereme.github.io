@@ -46,6 +46,7 @@ export default ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteMetadata.title} shortDescription={siteMetadata.shortDescription}>
+      <Head title={HOME_TITLE} keywords={siteMetadata.keywords} />
       <Category
         categories={categories}
         category={category}
