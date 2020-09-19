@@ -1,6 +1,6 @@
 module.exports = {
   title: `cereme.dev`,
-  description: `<meta.description>`,
+  description: `cereme(Sang yun Pae)'s Tech blog`,
   shortDescription: `Sang yun Pae, Software Engineer`,
   author: `cereme`,
   introduction: `프로덕트를 만들어 나가는게 너무나 즐거운 주니어 개발자`,
