@@ -3,10 +3,9 @@ import React from 'react'
 import './index.scss'
 
 export const GitHubIcon = () => {
-  // TODO: replace url
   return (
     <a
-      href="https://github.com/JaeYeopHan/felog"
+      href="https://github.com/cereme/cereme.dev"
       className="github"
       aria-label="GitHub"
       target="_blank"
