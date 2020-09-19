@@ -27,7 +27,7 @@ export const Top = ({ title, location, rootPath }) => {
           {title}
         </Link>
         {subLinks.map((link) => (
-          <Link to={link.to} className="sub-link">
+          <Link to={link.to} className="sub-link" key={link.label}>
             {link.label}
           </Link>
         ))}

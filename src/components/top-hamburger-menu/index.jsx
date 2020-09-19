@@ -5,7 +5,7 @@ export const TopHamburgerMenu = ({ links }) => {
     return (
         <div className="top-hamburger-menu">
             {links.map(link => (
-                <Link to={link.to} className="sub-link">
+                <Link to={link.to} className="sub-link" key={link.label}>
                     {link.label}
                 </Link>
             ))}
