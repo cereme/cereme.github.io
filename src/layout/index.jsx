@@ -11,6 +11,8 @@ import './index.scss'
 export const Layout = ({ location, title, shortDescription, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRoot = location.pathname === rootPath
+  // TODO: refactor
+  const isAnotherPath = (location.pathname === "/bio") || (location.pathname === "/resume") || (location.pathname === "/apps");
 
   return (
     <React.Fragment>
@@ -21,7 +23,7 @@ export const Layout = ({ location, title, shortDescription, children }) => {
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(36),
-          padding: isRoot ? `${rhythm(1)} ${rhythm(3 / 4)}` : `${rhythm(0)} ${rhythm(1 / 4)}`,
+          padding: !isAnotherPath ? `${rhythm(1)} ${rhythm(3 / 4)}` : `${rhythm(0)} ${rhythm(1 / 4)}`,
         }}
       >
         <Header title={title} location={location} rootPath={rootPath} shortDescription={shortDescription} />
