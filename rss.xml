@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cereme.dev]]></title><description><![CDATA[<meta.description>]]></description><link>https://new.cereme.dev</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 19 Sep 2020 10:16:32 GMT</lastBuildDate><item><title><![CDATA[about me]]></title><description><![CDATA[배상윤(cereme, Sang yun Pae…]]></description><link>https://new.cereme.dev/about/</link><guid isPermaLink="false">https://new.cereme.dev/about/</guid><pubDate>Sat, 19 Sep 2020 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;배상윤cereme-sang-yun-pae&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%EC%83%81%EC%9C%A4cereme-sang-yun-pae&quot; aria-label=&quot;배상윤cereme sang yun pae permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배상윤(cereme, Sang yun Pae)&lt;/h1&gt;
+&lt;p&gt;제품을 만들어내고 문제를 해결하는 것이 너무 즐거운 소프트웨어 개발자입니다.&lt;/p&gt;
+&lt;p&gt;제품 팀을 위해 어떤 형태로든 기여하는 것을 즐기는 팀플레이어입니다.&lt;/p&gt;
+&lt;p&gt;제품을 만들기 위해 어떤 기술도 가리지 않고 적용하고 싶어하는 Fast learner입니다.&lt;/p&gt;
+&lt;p&gt;자바스크립트, 파이썬, 웹 생태계에 많은 관심과 애정을 가지고 있습니다.&lt;/p&gt;
+&lt;p&gt;현재 (주)헤렌에 재직중이며, 인스타팀에서 Python backend &amp;#x26; DevOps 및 팀리드 포지션으로 일하고있습니다.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;GitHub&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://github.com/cereme&quot;&gt;https://github.com/cereme&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;Blog&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://cereme.dev&quot;&gt;https://cereme.dev&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;&lt;strong&gt;Contact&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;mailto:ceremebsy@gmail.com&quot;&gt;ceremebsy@gmail.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h1 id=&quot;core-skills&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#core-skills&quot; aria-label=&quot;core skills permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Core skills&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Bold: Fluent&lt;/strong&gt;, &lt;em&gt;Italic: just experienced&lt;/em&gt;, Normal: confident more than &lt;em&gt;italic&lt;/em&gt;, less then &lt;strong&gt;Bold&lt;/strong&gt; :)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Backend : &lt;strong&gt;Falcon&lt;/strong&gt;, &lt;strong&gt;Flask&lt;/strong&gt;, SQLAlchemy, Celery, Sanic, Django(DRF), Express.js, &lt;em&gt;gin-gonic&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Web Frontend : &lt;strong&gt;React.js&lt;/strong&gt;, &lt;strong&gt;Vue.js(2.0)&lt;/strong&gt;, jQuery&lt;/li&gt;
+&lt;li&gt;DevOps : Docker, Prometheus, Grafana, Elastic Beanstalk, &lt;em&gt;Kubernetes&lt;/em&gt;, &lt;em&gt;ECS&lt;/em&gt;, &lt;em&gt;boto3&lt;/em&gt;, &lt;em&gt;Terraform&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;App dev : React Native(&amp;#x3C;0.60)&lt;/li&gt;
+&lt;li&gt;Database : MySQL, PostgreSQL, AWS Neptune, Redis&lt;/li&gt;
+&lt;li&gt;ML : &lt;em&gt;Keras&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Windows dev : Win32API&lt;/li&gt;
+&lt;li&gt;Other : &lt;strong&gt;Web Crawling&amp;#x26;Scraping&lt;/strong&gt;, Selenium, Puppeteer, &lt;em&gt;Fiddler&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Adorable tools : Insomnia, Sentry&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;experiences&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#experiences&quot; aria-label=&quot;experiences permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Experiences&lt;/h1&gt;
+&lt;h2 id=&quot;주헤렌-201912-&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%A3%BC%ED%97%A4%EB%A0%8C-201912-&quot; aria-label=&quot;주헤렌 201912  permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;(주)헤렌 (2019.12 ~)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Position : 인스타팀 팀리드(2020.05~), Backend &amp;#x26; DevOps developer&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;projects&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#projects&quot; aria-label=&quot;projects permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;인스타차트&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2020.05 부터 스프린트 및 스크럼 마스터를 맡았습니다.&lt;/li&gt;
+&lt;li&gt;기술부채에 대해 팀원들과 논의하며 감당할 수 있을 때 처리할 수 있도록 매니징했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;인스타차트 웹사이트&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Falcon framework로 진행중이던 프로젝트에 중간부터 합류해서 개발했습니다.&lt;/li&gt;
+&lt;li&gt;MySQL, AWS Neptune의 트랜잭션 동시성 이슈를 진단하고 수정했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;인스타차트 주문시스템&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;설계와 개발을 주도했습니다. 기존 인스타겟 서비스 주문시스템의 단점을 보완하면서 Progressive-Zero-Downtime 마이그레이션이 가능하도록 설계했습니다.&lt;/li&gt;
+&lt;li&gt;불안정한 네트워크 환경, 저사양의 온프레미스 인프라에서도 서비스의 신뢰성이 유지되고 Kubernetes로 관리되는 분산 비동기 작업자를 개발했습니다.&lt;/li&gt;
+&lt;li&gt;서비스 및 인프라 지표를 전혀 확인할 수 없는 이전 시스템을 참고해 Prometheus와 Grafana로 비즈니스 지표 및 서비스 구성요소들의 상태를 확인할 수 있는 대시보드를 구축해 운영했습니다.&lt;/li&gt;
+&lt;li&gt;Python, Php, Celery, RabbitMQ, Kubernetes, Docker, Prometheus, Grafana, Chalice를 사용했습니다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;인스타팀 인터널 시스템 운영 및 개선&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(TBD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;인스타겟 웹사이트 유지보수&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(TBD)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;team-meta4-201901--201912&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#team-meta4-201901--201912&quot; aria-label=&quot;team meta4 201901  201912 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Team Meta4 (2019.01 ~ 2019.12)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Position : Co-Founder, CTO&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;projects-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#projects-1&quot; aria-label=&quot;projects 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://joongorae.com&quot;&gt;중고래&lt;/a&gt; MVP (2019.09)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;React.js, Serverless.js(python)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.avoapp&quot;&gt;아보 &lt;em&gt;AVO (All Video On)&lt;/em&gt;&lt;/a&gt; &lt;del&gt;MVP&lt;/del&gt; ( 2019.04~ )&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;React-Native, Ruby on Rails&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://lockertiger.com&quot;&gt;사물함 호랑이&lt;/a&gt; ( 2018.11~ 2019.3 ~ )&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Express.js, Vue.js&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Project Flagger Prototype( 2018.09 ~ 2019.01 )&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Express.js, Vue.js, Bootstrap, Socket.io, Redis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;awards&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#awards&quot; aria-label=&quot;awards permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Awards&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;2018 정보보호 R&amp;#x26;D 데이터 챌린지 (AI기반 악성코드 탐지 부문) 본선 7팀 (2018.12)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Keras 모델 제작 및 코딩 (탐지율 92%) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;KMU - KISIA 정보보호 방안 논문 공모전 - 우수상 (3위) (2018.04)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;국내 사이버보험 커버리지 개선안에 대한 연구&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2018 중앙대 다빈치 소프트웨어 해커톤 우수상 (2018.05)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;아침형인간: 아침에 알람과 함께 정보를 제공하는 인공지능 스피커 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;카이버 네트워크 블록체인 공모전 - 본선 5팀 (2018.02)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;블록체인을 활용한 탈중앙화된 광고플랫폼&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2017 중앙대 다빈치 소프트웨어 공모전 최우수상 (2017.12)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;이등병의 편지: 입대관련 정보를 제공하는 카카오톡 챗봇 개발&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2010 정보올림피아드 중등부 공모 부문 전국 동상 (2010)&lt;/li&gt;
+&lt;li&gt;2009 정보올림피아드 초등부 경시 (서울) 장려상 (2009)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;education&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#education&quot; aria-label=&quot;education permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Education&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;중앙대학교 산업보안학과 전공(학사), 사이버보안 연합전공(학사)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2017년 입학 - 휴학중&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Prometheus + Grafana로 모니터링하기 (1)]]></title><description><![CDATA[포스팅 내용은 헤렌 공식 기술블로그에서 확인해주세요! https://herrenofficial.github.io/devops/2020/04/26/prometheus-with-grafana-1.html]]></description><link>https://new.cereme.dev/devops/prometheus-grafana-1/</link><guid isPermaLink="false">https://new.cereme.dev/devops/prometheus-grafana-1/</guid><pubDate>Tue, 28 Apr 2020 15:09:24 GMT</pubDate><content:encoded>&lt;p&gt;포스팅 내용은 헤렌 공식 기술블로그에서 확인해주세요!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://herrenofficial.github.io/devops/2020/04/26/prometheus-with-grafana-1.html&quot;&gt;https://herrenofficial.github.io/devops/2020/04/26/prometheus-with-grafana-1.html&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Chalice, serverless framework와 비교했을 때 장단점]]></title><description><![CDATA[이 글에서는 Chalice가 Serverless framework에 비해는 가지는 장단점에 대해 간단히 다룰 것입니다.  TL;DR AWS의 S3, SNS, SQS, Cloudwatch Event의 간단한 event handler를 python…]]></description><link>https://new.cereme.dev/backend/chalice-vs-serverless/</link><guid isPermaLink="false">https://new.cereme.dev/backend/chalice-vs-serverless/</guid><pubDate>Wed, 26 Feb 2020 15:10:14 GMT</pubDate><content:encoded>&lt;p&gt;이 글에서는 Chalice가 Serverless framework에 비해는 가지는 장단점에 대해 간단히 다룰 것입니다. &lt;/p&gt;
+&lt;h1 id=&quot;tldr&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#tldr&quot; aria-label=&quot;tldr permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;TL;DR&lt;/h1&gt;
+&lt;p&gt;AWS의 S3, SNS, SQS, Cloudwatch Event의 간단한 event handler를 python 코드로 관리하실 분들에게 추천하는 프레임워크입니다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Chalice(&lt;a href=&quot;https://github.com/aws/chalice&quot;&gt;https://github.com/aws/chalice&lt;/a&gt;)는 AWS(!)에서 제작한 Python을 위한 Serverless framework입니다. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;You can think of it as Flask/Bottle for serverless APIs.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;README에서도 확인하실 수 있듯이, serverless APIs의 Flask/Bottle과 같은 position을 생각하고 만들었다고 합니다.&lt;/p&gt;
+&lt;p&gt;그러면 한 번 얼마나 간단한 지 살펴볼까요?&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; chalice &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Chalice
+    
+    app &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Chalice&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;app_name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;helloworld&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;route&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;/&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;index&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;hello&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;world&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위 코드를 &lt;code class=&quot;language-text&quot;&gt;chalice deploy&lt;/code&gt; 하면 자동으로 IAM Role, Lambda, API Gateway를 만들고 연결해줍니다! &lt;/p&gt;
+&lt;p&gt;하지만 이런 API Gateway + Lambda로 serverless web service를 운영할 수 있게 해주는 기능은 다른 많은 프레임워크들에서도 지원을 합니다. &lt;/p&gt;
+&lt;p&gt;Chalice의 진가는 다른 AWS 서비스와의 Intergration을 추가적인 복잡한 yaml 세팅 없이 python decorator로 설정할 수 있다는 점입니다.&lt;/p&gt;
+&lt;p&gt;S3의 event도 구독할 수 있고, &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; chalice &lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Chalice
+    
+    app &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Chalice&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;app_name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;helloworld&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;token comment&quot;&gt;# Whenever an object is uploaded to &apos;mybucket&apos;&lt;/span&gt;
+    &lt;span class=&quot;token comment&quot;&gt;# this lambda function will be invoked.&lt;/span&gt;
+    
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;on_s3_event&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;bucket&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;mybucket&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Object uploaded for bucket: %s, key: %s&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;bucket&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; event&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;key&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Cloudwatch event도 생성해서 lambda와 자동으로 연결할 수 있습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;schedule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;cron(15 10 ? * 6L 2002-2005)&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;cron_handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;pass&lt;/span&gt;
+    
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;schedule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;rate(5 minutes)&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rate_handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;pass&lt;/span&gt;
+    
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;schedule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;Rate&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; unit&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;Rate&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;MINUTES&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;rate_obj_handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;pass&lt;/span&gt;
+    
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;schedule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;Cron&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;15&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;10&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;?&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;*&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;6L&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;2002-2005&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;cron_obj_handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;pass&lt;/span&gt;
+
+    app &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; chalice&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;Chalice&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;app_name&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;foo&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    
+    &lt;span class=&quot;token decorator annotation punctuation&quot;&gt;@app&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;on_cw_event&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;source&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;aws.codecommit&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;on_code_commit_changes&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token keyword&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;to_dict&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;SNS Topic과 SQS도 마찬가지로 간단하게 Chalice가 자동으로 Lambda와 간편하게 연결해줍니다.&lt;/p&gt;
+&lt;p&gt;이렇게 Flask-Like API는 Event-handler 관계를 Decorator-function관계로 알기 쉽게 표현할 수 있는 장점을 가지고 있습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://chalice.readthedocs.io/en/latest/&quot;&gt;Getting Started - Python Serverless Microframework for AWS 1.12.0 documentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;기본적인 사용법은 위 문서에 잘 정리되어있으니 참고해주세요!&lt;/p&gt;
+&lt;h1 id=&quot;장점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90&quot; aria-label=&quot;장점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;사용법이 매우 간단함&lt;/p&gt;
+&lt;p&gt;이는 serverless 진영에서 대부분 내세우는 장점이지만 flask-like API를 채용했다는 장점이 있죠. 또 APIGateway + Lambda를 사용하는 use case에 있어서도 serverless framework의 YAML 작성보다는 Flask-like API가 훨씬 간편한 것 같습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;    &lt;span class=&quot;token key atrule&quot;&gt;functions&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;token key atrule&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token key atrule&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; handler.search
+        &lt;span class=&quot;token key atrule&quot;&gt;events&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+          &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token key atrule&quot;&gt;http&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+              &lt;span class=&quot;token key atrule&quot;&gt;path&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; /search
+              &lt;span class=&quot;token key atrule&quot;&gt;method&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; get
+              &lt;span class=&quot;token key atrule&quot;&gt;cors&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean important&quot;&gt;true&lt;/span&gt;
+              &lt;span class=&quot;token key atrule&quot;&gt;request&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;token key atrule&quot;&gt;parameters&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                  &lt;span class=&quot;token key atrule&quot;&gt;querystrings&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                    &lt;span class=&quot;token key atrule&quot;&gt;query&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean important&quot;&gt;true&lt;/span&gt;
+                    &lt;span class=&quot;token key atrule&quot;&gt;page&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean important&quot;&gt;true&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;전 이거 좀 끔찍한거같아요…&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AWS 리소스와 쉽게 연결할 수 있음&lt;/p&gt;
+&lt;p&gt;역시 serverless framework에서 S3 event에 연결하는 코드를 봐보면 Chalice의 간결함이 느껴집니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;    &lt;span class=&quot;token key atrule&quot;&gt;functions&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;token key atrule&quot;&gt;users&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+        &lt;span class=&quot;token key atrule&quot;&gt;handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; users.handler
+        &lt;span class=&quot;token key atrule&quot;&gt;events&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+          &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token key atrule&quot;&gt;s3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+              &lt;span class=&quot;token key atrule&quot;&gt;bucket&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; photos
+              &lt;span class=&quot;token key atrule&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; s3&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;ObjectCreated&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;*
+              &lt;span class=&quot;token key atrule&quot;&gt;rules&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+                &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token key atrule&quot;&gt;prefix&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; uploads/
+                &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token key atrule&quot;&gt;suffix&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; .jpg&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;사실 Chalice에서도 decorator에 저 정보를 채워넣어야 하긴 하지만, YAML을 작성하는 것과 python decotrator에다가 값을 넣는 것은 편의성의 차이가 크다고 생각합니다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;단점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90&quot; aria-label=&quot;단점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Python만 지원함 &lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AWS의 모든 기능이 지원되는건 아님&lt;/p&gt;
+&lt;p&gt;애초에 간단하게 쓸 목적으로 쓰던거라 아직 불편함을 느끼지 못하긴 했지만, 공식 문서에서 얼마든지 coverage가 떨어질 가능성을 언급했습니다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;AWS만 지원함&lt;/p&gt;
+&lt;p&gt;serverless framework는 여러 cloud vendor를 지원합니다. multi-cloud 환경을 염두에 두고있다면 Chalice는 적합하지 않을 것 같네요.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;취향&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B7%A8%ED%96%A5&quot; aria-label=&quot;취향 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;취향&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;local package 패키징 방식&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;serverless framework&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;yaml&quot;&gt;&lt;pre class=&quot;language-yaml&quot;&gt;&lt;code class=&quot;language-yaml&quot;&gt;    &lt;span class=&quot;token key atrule&quot;&gt;plugins&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+      &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; serverless&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;python&lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt;requirements
+    
+    &lt;span class=&quot;token key atrule&quot;&gt;package&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+     &lt;span class=&quot;token key atrule&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt;
+       &lt;span class=&quot;token punctuation&quot;&gt;-&lt;/span&gt; your_local_package/&lt;span class=&quot;token important&quot;&gt;**&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;serverless-python-requirements&lt;/code&gt; 플러그인을 사용해서 저런 식으로 Lambda에 로컬 패키지를 올릴 수 있습니다.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Chalice&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;vendor/&lt;/code&gt; 디렉토리 밑에 패키지를 놔두면 Lambda에 올릴 때 한 단계 위 디렉토리로 옮겨줍니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    your-chalice-project/
+    ├── .chalice
+    │   └── config.json
+    ├── vendor
+    │   └── your-local-package
+    │       ├── __init__.py
+    │       └── foo.py
+    ├── app.py
+    └── requirements.txt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이런 식으로 로컬에서 개발하고 &lt;code class=&quot;language-text&quot;&gt;chalice deploy&lt;/code&gt; 로 배포하시면 Lambda function은 다음과 같은 디렉토리 구조로 구성이 됩니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;    your-chalice-function/
+    ├── your-local-package
+    │   ├──  __init__.py
+    │   └──  foo.py
+    ├── app.py
+    └── requirements.txt&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;저는 이렇게 개발하면 개발환경에서 로컬 패키지에 대한 자동완성이 동작하지 않기 때문에 불편해서 별로 좋아하지 않는 부분인데, serverless에서 로컬 패키지를 패키징하는 방식이 plugin을 추가로 깔고 세팅에 잡다하게 추가해야하는 방식인걸 감안하면 Chalice쪽이 훨씬 더 간단하게 처리하는 걸 수도 있겠네요.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[React Hooks useEffect를 쓸 때, useState vs useRef (feat.closure)]]></title><description><![CDATA[React native로 앱을 만들던 중, 다음과 같은 로직을 구현해야만 하는 일이 생겼습니다. 한 component에서 setInterval로 시간을 재다가 unmount되면 alert…]]></description><link>https://new.cereme.dev/frontend/react-hooks-useeffect-useref-feat-closure/</link><guid isPermaLink="false">https://new.cereme.dev/frontend/react-hooks-useeffect-useref-feat-closure/</guid><pubDate>Fri, 01 Nov 2019 16:10:27 GMT</pubDate><content:encoded>&lt;p&gt;React native로 앱을 만들던 중, 다음과 같은 로직을 구현해야만 하는 일이 생겼습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;한 component에서 setInterval로 시간을 재다가 unmount되면 alert을 띄운다.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;룰루랄라 다음처럼 코드를 바로 짰습니다. (제가 겪은 상황은 react native였지만 편의상 react 버전으로 코드를 기재했습니다. 값을 rendering하는 부분도 실제 코드에서는 비워져있지만 비교를 위해서 추가했습니다.)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;Counter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; setCounter&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useState&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;useEffect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; timer &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setInterval&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token function&quot;&gt;setCounter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;counter&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token function&quot;&gt;clearInterval&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;timer&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;componentDidMount&lt;/code&gt;에서 setInterval을 설정하고, &lt;code class=&quot;language-text&quot;&gt;componentWillUnmount&lt;/code&gt;에서 setInterval을 cleanup하고, alert를 띄워주는 코드를 Hooks 버전으로 만든 것이죠. class component였으면 counter를 this.state에 넣었을테니, useState를 만들어서 count를 해주구요.&lt;/p&gt;
+&lt;p&gt;저 코드를 실행하게되면, (실행 결과를 비교해볼 수 있는 codesandbox를 밑에 첨부했습니다.) counter가 1초마다 증가하는 rendering은 정상적으로 나타나지만, alert은 항상 0으로 나옵니다. &lt;/p&gt;
+&lt;p&gt;아 맞다! useEffect는 두 번째 인자로 dependencies를 받지! 라고 생각했지만…&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;useEffect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; timer &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setInterval&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;setCounter&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;counter&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;clearInterval&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;timer&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이렇게 만들어버리면 counter가 변할 때마다 useEffect가 trigger되니까 원래 로직이랑 달라지게 되네요.&lt;/p&gt;
+&lt;p&gt;흠… 그래서 열심히 SO를 검색해봤고 이유를 찾았습니다.
+(&lt;a href=&quot;https://stackoverflow.com/questions/53633698/referencing-outdated-state-in-react-useeffect-hook&quot;&gt;https://stackoverflow.com/questions/53633698/referencing-outdated-state-in-react-useeffect-hook&lt;/a&gt;)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The reason for this is due to closures. A closure is a function’s reference to the variables in its scope. Your useEffect callback is only ran once when the component mounts and hence the return callback is referencing the initial count value of 0. &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;useState가 closure 안의 값까지 업데이트해줄 수는 없는것이죠… 그래서 useEffect의 callback을 다시 호출해주기 위한 것이 useEffect의 dependency인 것이구요.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; value &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useRef&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;count&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; setCount&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useState&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;value&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;current&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;위 SO 링크의 답변자분은 위와 같은 &lt;em&gt;ugly hack&lt;/em&gt;을 제시했는데요, 제 상황에서는 굳이 DOM이 업데이트될 필요가 없으니 그냥 useRef만 썼습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;CounterKai&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; counter &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useRef&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token function&quot;&gt;useEffect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; timer &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;setInterval&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      counter&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;current &lt;span class=&quot;token operator&quot;&gt;+=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;token function&quot;&gt;clearInterval&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;timer&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+      &lt;span class=&quot;token function&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&amp;lt;CounterKai/&gt;:&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; counter&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;current&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+      &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;counter&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;current&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;p&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+    &lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;div&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;React Hooks를 공부할 때, useRef가 응? 그거 그냥 ref={…} 이거랑 비슷한거 아냐? 라고 생각해서 대수롭게 보지 않았는데… 공식 문서를 자세히 살펴봤습니다.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;const refContainer = useRef(initialValue);&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;useRef는 .current 프로퍼티로 전달된 인자(initialValue)로 초기화된 변경 가능한 ref 객체를 반환합니다. &lt;strong&gt;반환된 객체는 컴포넌트의 전 생애주기를 통해 유지될 것입니다.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;이 기능은 클래스에서 인스턴스 필드를 사용하는 방법과 유사한 어떤 가변값을 유지하는 데에 편리합니다.
+&lt;a href=&quot;https://ko.reactjs.org/docs/hooks-reference.html#useref&quot;&gt;https://ko.reactjs.org/docs/hooks-reference.html#useref&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;useRef는 컴포넌트의 전 생애주기를 통해 유지되는 값이라는 의미가 있었네요!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Refs don’t give you the closure issue mentioned above because refs is an object with a current field and multiple calls to useRef will return you the same object&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;useRef는 순수한 자바스크립트 객체를 생성시켜주고 유지시켜주기 때문에 closure 이슈가 발생하지 않습니다.&lt;/p&gt;
+&lt;p&gt;위 코드는 &lt;a href=&quot;https://codesandbox.io/s/usestate-useref-dr7ol&quot;&gt;https://codesandbox.io/s/usestate-useref-dr7ol&lt;/a&gt; 이 링크에서 실행해보실 수 있습니다!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Google I/O Extended 2019 Webtech 후기]]></title><description><![CDATA[Google I/O Extended 2019 Webtech에 다녀왔습니다!  사진을 잘 안찍어버릇해서 나올 때 찍었습니다… Puppeteer: Getting Started Selenium처럼 Web automation tool인 Pupeteer…]]></description><link>https://new.cereme.dev/meetups/google-io-extended-2019-webtech/</link><guid isPermaLink="false">https://new.cereme.dev/meetups/google-io-extended-2019-webtech/</guid><pubDate>Sat, 13 Jul 2019 16:10:08 GMT</pubDate><content:encoded>&lt;p&gt;Google I/O Extended 2019 Webtech에 다녀왔습니다!&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 720px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAMCBAUB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAVUtbKhpTDZ5JZAuh//EAB4QAAICAgIDAAAAAAAAAAAAAAECAAMREgQTIzFB/9oACAEBAAEFAim1epdzxbVierh5cmDKw1oT1oISZ9VQR//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EAB0QAAIBBAMAAAAAAAAAAAAAAAABAhARITESIDL/2gAIAQEABj8CwzgtmqSPTpeRhdP/xAAfEAEAAgEDBQAAAAAAAAAAAAABABEhEDFBUWFxkdH/2gAIAQEAAT8ha+hIYVVgjlI9zBeZUg03xB/pLzZd9Ii3nibZE7xW7oOqT//aAAwDAQACAAMAAAAQMO79/8QAGBEAAgMAAAAAAAAAAAAAAAAAABEBECH/2gAIAQMBAT8Qhu9P/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAEQESH/2gAIAQIBAT8QimYf/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUXFh/9oACAEBAAE/EHqMjB1KqKVtGavbKTqlmOpjzhRSZiiqdQK1/XBcd94amP3fbOuoekykRbX5xLbEsJrzbP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;google-io-extended-1.jpeg&quot;
+        title=&quot;google-io-extended-1.jpeg&quot;
+        src=&quot;/static/465f7f2163984a09660f121261f45f78/80e3c/google-io-extended-1.jpg&quot;
+        srcset=&quot;/static/465f7f2163984a09660f121261f45f78/f93b5/google-io-extended-1.jpg 300w,
+/static/465f7f2163984a09660f121261f45f78/b4294/google-io-extended-1.jpg 600w,
+/static/465f7f2163984a09660f121261f45f78/80e3c/google-io-extended-1.jpg 720w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;사진을 잘 안찍어버릇해서 나올 때 찍었습니다…&lt;/p&gt;
+&lt;h2 id=&quot;puppeteer-getting-started&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#puppeteer-getting-started&quot; aria-label=&quot;puppeteer getting started permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Puppeteer: Getting Started&lt;/h2&gt;
+&lt;p&gt;Selenium처럼 Web automation tool인 &lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Pupeteer&lt;/a&gt;를 시작해보는 세션이였습니다.&lt;/p&gt;
+&lt;p&gt;Pupeteer의 특징은 다음과 같다고 하네요&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Chrome만 지원&lt;/li&gt;
+&lt;li&gt;Google Chromium 팀이 직접 maintain&lt;/li&gt;
+&lt;li&gt;Node.js만 지원&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;라이브코딩으로 Google Account에 로그인하는 과정을 보여주셨습니다!
+또, 예제로 Jest + Puppeteer e2e testing, Crawling 등의 예제를 보여주셨습니다.&lt;/p&gt;
+&lt;p&gt;Selenium보다 DOM Waiting도 간편해서 좋은 것 같습니다. 또한 User action을 직접 간단하게 보낼 수 있는 것도 좋네요.&lt;/p&gt;
+&lt;h2 id=&quot;hands-on-portals&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#hands-on-portals&quot; aria-label=&quot;hands on portals permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Hands on Portals&lt;/h2&gt;
+&lt;p&gt;처음 들어본 주제다!&lt;/p&gt;
+&lt;p&gt;Micro Frontends에 대한 소개와 함께 시작했다. MSA의 개념을 Frontend에 확장한 개념이다.&lt;/p&gt;
+&lt;p&gt;개발조직이 분리되어있는(혹은 Legacy가 많은) 서비스에서 여러 다른 Frontend Framework를 동시에 사용할 수 있게 하는 것이다.&lt;/p&gt;
+&lt;p&gt;방법론이다보니 이를 구현하기 위한 방법이 많이 있다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Domain 분리&lt;/li&gt;
+&lt;li&gt;javascript isolation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;근데 “개빡셉니다” 라고 한다 ㅋㅋ 당연히 완전히 page를 isolate하는건 품이 많이 들어가겠지…
+=&gt; &lt;em&gt;어떤 방식을 사용해도 결국 어렵다!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;그리고 이제 드디어 Portal 얘기가 나온다.&lt;/p&gt;
+&lt;p&gt;Page 이동의 단점 : “현재 페이지를 벗어난다” (naver.com의 로그인 버튼처럼)&lt;/p&gt;
+&lt;p&gt;=&gt; portal은 페이지 이동을 부드럽게 보여주는 HTML Element이다! HTML 표준이래요. 하지만 Google Chrome에서만 지원(…) 게다가 Chrome Canary에서 Flag를 활성화시켜야먄…&lt;/p&gt;
+&lt;p&gt;iframe처럼 portal도 postMessage API를 사용해서 통신할 수 있다. 확실히 Micro Frontends를 잘 사용할 수 있는 예제였다.&lt;/p&gt;
+&lt;h2 id=&quot;new-capabilities-for-the-web&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#new-capabilities-for-the-web&quot; aria-label=&quot;new capabilities for the web permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;New Capabilities for the Web&lt;/h2&gt;
+&lt;p&gt;“웹의 기능이 어디까지 확장될 수 있니?” 에 대한 세션이다.&lt;/p&gt;
+&lt;h3 id=&quot;app-gap&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#app-gap&quot; aria-label=&quot;app gap permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;App Gap&lt;/h3&gt;
+&lt;p&gt;현재(2019-07-07 기준) 지구 인구는 약 80억명이고, 인터넷 유저는 약 40억명이라고 한다. -&gt; 브라우저랑 인터넷만 있으면 뭐든지 할 수 있다!&lt;/p&gt;
+&lt;p&gt;Native App에서는 가능하고, Web에서 할 수 없는 것들을 App Gap이라고 한다. Ex) Local file 접근 등&lt;/p&gt;
+&lt;h3 id=&quot;project-fugu&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#project-fugu&quot; aria-label=&quot;project fugu permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Project Fugu&lt;/h3&gt;
+&lt;p&gt;Web이 Native app을 따라가게 하고자 하는 프로젝트.&lt;/p&gt;
+&lt;h3 id=&quot;new-capabilities&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#new-capabilities&quot; aria-label=&quot;new capabilities permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;New Capabilities&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Sharing Content and Receiving Shares&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;기존에 네이티브에서 하던 Share 기능을 Web API 기능으로 구현 &lt;/p&gt;
+&lt;p&gt;근데 구현되어있는 브라우저가 Safari, Opera밖에 없다…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Media Session API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; 스마트폰에서 Web 동영상을 볼 때 알림센터에서 Thumbnail 나오고 navigation이 나오는게 이거였구나&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shape Detection API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; Face / Barcode / Text Detector -&gt; 웹에서 이미 디바이스에 있는 모듈을 사용할 수 있도록!
+좀 좋은듯?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Perception Toolkit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;npm install perception-toolkit&lt;/code&gt; 으로 쓸 수 있다.&lt;/p&gt;
+&lt;p&gt;Demo에서는 카메라로 사물을 찍으면 알아서 검색해서 알려주는걸 보여줬는데 좀 멋있었다. 근데 뭔가 제대로 써먹기는 힘들 것 같은 느낌…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Screen/System Lock&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;웹에서 Device가 Sleep하지 않도록 해주는 API&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Badge API&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;ExperimentalBadge.set(1);&lt;/code&gt; 같은 방식으로 App의 Badge를 켤 수 있다. 이거도 flag에서 enable해야됨&lt;/p&gt;
+&lt;h2 id=&quot;webassembly-101&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#webassembly-101&quot; aria-label=&quot;webassembly 101 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;WebAssembly 101&lt;/h2&gt;
+&lt;p&gt;가장 기대되는 세션!&lt;/p&gt;
+&lt;h3 id=&quot;emscripten&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#emscripten&quot; aria-label=&quot;emscripten permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Emscripten&lt;/h3&gt;
+&lt;p&gt;LLVM 바이트코드를 JavaScript로 컴파일해주는 프로젝트&lt;/p&gt;
+&lt;h3 id=&quot;asmjs&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#asmjs&quot; aria-label=&quot;asmjs permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;asm.js&lt;/h3&gt;
+&lt;p&gt;JS에서 Object, String, Closure, Dynamic type같은 것들을 빼고 만든 Subset. 그러면 거의 C언어와 유사한 JS 코드가 되고 Assembly와 유사한 컴퓨팅방식을 사용 가능하다고 한다.&lt;/p&gt;
+&lt;h3 id=&quot;webassembly&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#webassembly&quot; aria-label=&quot;webassembly permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;WebAssembly&lt;/h3&gt;
+&lt;p&gt;asm.js로부터 발전해서 새로 정의한 Web을 위한 Assembly&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;WebAssembly is a binary instruction format.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Emscripten의 출력물은 Optimized JS -&gt; asm.js -&gt; WebAssembly binary로 변화했다고 한다&lt;/p&gt;
+&lt;h3 id=&quot;usage&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#usage&quot; aria-label=&quot;usage permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Usage&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://squoosh.app/&quot;&gt;https://squoosh.app/&lt;/a&gt; - Image editing tool인데 Web assembly를 사용해서 구현. &lt;a href=&quot;https://github.com/GoogleChromeLabs/squoosh&quot;&gt;Github Repo&lt;/a&gt;를 보면 이미지 압축 알고리즘 cpp 코드를 wasm로 만든 것을 볼 수 있다. Rust도 wasm도 컴파일 할 수 있다. Rust Compiler에서 wasm 컴파일러를 지원한다고 한다.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/torch2424/wasmboy&quot;&gt;https://github.com/torch2424/wasmboy&lt;/a&gt; - Gameboy 에뮬레이터. TypeScript도 wasm으로 컴파일 할 수 있는 case. 대신에 AssemblyScript라는 TypeScript의 Subset을 사용하면 가능하다고 한다. Compiler는 Binaryen. 근데 TS의 엄격한 Subset이라고 하면 차라리 C++이 낫지 않나 싶긴 하다. AssemblyScript의 스펙에 대해 설명을 자세히 해주셨는데 들으면 들을수록…&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;next-features&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#next-features&quot; aria-label=&quot;next features permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Next features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Thread/Shared Memory&lt;/li&gt;
+&lt;li&gt;ES6 module Integration&lt;/li&gt;
+&lt;li&gt;GC&lt;/li&gt;
+&lt;li&gt;More languages ( &lt;a href=&quot;https://github.com/appcypher/awesome-wasm-langs&quot;&gt;https://github.com/appcypher/awesome-wasm-langs&lt;/a&gt; ) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;근데 솔직히 나는 쓸 일이 없을것 같다… 어썸하긴 하지만 ㅎ&lt;/p&gt;
+&lt;h2 id=&quot;going-big---pwa&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#going-big---pwa&quot; aria-label=&quot;going big   pwa permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Going BIG - PWA&lt;/h2&gt;
+&lt;p&gt;Chrome 76부터는 Desktop에서도 PWA가 된다고 한다.
+Mobile/Desktop 모두 된다는건 상당히 매력적이다. Major browsers들은 모두 지원하기도 하고.&lt;/p&gt;
+&lt;p&gt;라이브 버그리포팅 들어와서 고치느라 잘 못들었음 ㅠ&lt;/p&gt;
+&lt;h2 id=&quot;deep-in-lighthouse-audits&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#deep-in-lighthouse-audits&quot; aria-label=&quot;deep in lighthouse audits permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Deep in Lighthouse Audits&lt;/h2&gt;
+&lt;p&gt;세션 제목만 보고 Lighthouse 써봤는데 좋더라구요&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;최악의 상황에서 50점이 나오는게 최선의 상황에서 100점이 나오는거보다 낫다! -&gt; 자기만족에서 끝내지 말자… &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;세션 듣기 전에 Lighthouse 돌릴 때, Throttling 걸어서 점수가 진짜 끔찍하게 나왔는데 Throttling 풀고 자기만족 했었는데 그부분 딱 말씀하셔서 웃겼다 ㅋㅋ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;web.dev 에서 권장사항들 확인 가능&lt;/li&gt;
+&lt;li&gt;100점은 많이 어려우니까 KPI 느낌으로 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;네트워킹-세션&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%82%B9-%EC%84%B8%EC%85%98&quot; aria-label=&quot;네트워킹 세션 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;네트워킹 세션&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 720px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABYBAQEBAAAAAAAAAAAAAAAAAAACAf/aAAwDAQACEAMQAAABiNaZ2IjJrd8wUQZ//8QAHBABAQACAgMAAAAAAAAAAAAAAQIAAxESBDFC/9oACAEBAAEFAh4yQV6j4+udmb9MzNcyhg1rb7XRn0+//8QAGBEAAgMAAAAAAAAAAAAAAAAAABIBEBH/2gAIAQMBAT8BeBjK/8QAFxEAAwEAAAAAAAAAAAAAAAAAABASEf/aAAgBAgEBPwGCTV//xAAbEAACAgMBAAAAAAAAAAAAAAAAAREhAhAxEv/aAAgBAQAGPwKKZeUEdH6bF5bZDOErpOVvS1//xAAdEAACAQUBAQAAAAAAAAAAAAAAAREhMUFRcWGB/9oACAEBAAE/IamAUgLwm5UZQssGico+C14simoTL0kIsJGlT2MZyi6nsu9P/9oADAMBAAIAAwAAABBY7T3/xAAZEQADAAMAAAAAAAAAAAAAAAAAESEBMVH/2gAIAQMBAT8QtMC8E2Q//8QAGBEBAQEBAQAAAAAAAAAAAAAAAQARIWH/2gAIAQIBAT8QVnWPcrEYUOX/xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMWFBcZGh/9oACAEBAAE/EJLR1TfzJJg8qZ8wqarm0+s0mIlBzeskil0KgHRj9VkWlHzlAGelyC4CKrvEDkB0HrICvGHmAgTNRNAj9z//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;google-io-extended-2.jpeg&quot;
+        title=&quot;google-io-extended-2.jpeg&quot;
+        src=&quot;/static/bee6d629eb9c29187c6008ac98499968/80e3c/google-io-extended-2.jpg&quot;
+        srcset=&quot;/static/bee6d629eb9c29187c6008ac98499968/f93b5/google-io-extended-2.jpg 300w,
+/static/bee6d629eb9c29187c6008ac98499968/b4294/google-io-extended-2.jpg 600w,
+/static/bee6d629eb9c29187c6008ac98499968/80e3c/google-io-extended-2.jpg 720w&quot;
+        sizes=&quot;(max-width: 720px) 100vw, 720px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;주제별로 나눠서 네트워킹하는 세션이 맨 마지막이였다.&lt;/p&gt;
+&lt;p&gt;센스있게 그룹을 나눠주셔서 재밌는 시간이 되었다 ㅎㅎ&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;다음부터는 세션마다 사진을 하나 이상씩은 찍어야겠습니다. 글이 너무 휑하네요 ㅠ&lt;/p&gt;
+&lt;p&gt;여러 개발자분들이 개발하시는 이야기, 새로운 기술에 대한 이야기를 나누니까 좀 리프레시가 되는 기분입니다. &lt;/p&gt;
+&lt;p&gt;다음달에는 Pycon!!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[React native iOS 실제 iPhone 디바이스에서 실행하기]]></title><description><![CDATA[Mac 장비만 있다면 react-native run-ios로 시뮬레이터 실행은 간단히 해볼 수 있습니다. 하지만 실제 iOS 디바이스에서 실행하기 위해서는 절차가 좀 필요합니다. Apple Developer Program 가입 https…]]></description><link>https://new.cereme.dev/appdev/react-native-iphone-device-run/</link><guid isPermaLink="false">https://new.cereme.dev/appdev/react-native-iphone-device-run/</guid><pubDate>Thu, 11 Jul 2019 16:09:12 GMT</pubDate><content:encoded>&lt;p&gt;Mac 장비만 있다면 react-native run-ios로 시뮬레이터 실행은 간단히 해볼 수 있습니다. 하지만 실제 iOS 디바이스에서 실행하기 위해서는 절차가 좀 필요합니다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Apple Developer Program 가입&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;a href=&quot;https://developer.apple.com&quot;&gt;https://developer.apple.com&lt;/a&gt; 에서 자신의 Apple ID를 등록하고 KRW 129,000의 애플 개발자 프로그램을 구매해야합니다. ㅠ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61028246-313d6b80-a3f3-11e9-93cb-3099493931a0.png&quot; alt=&quot;스크린샷 2019-07-11 오전 11 14 59&quot;&gt;&lt;/p&gt;
+&lt;p&gt;이 때 결제수단 명의와 Apple ID 명의가 다르면 결제 후 48시간이 지나도 처리가 안되는데, Apple 고객센터에 전화하면 상담사님이 친절하게 확인 후 등록절차를 진행해줍니다.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;XCode에 Apple ID 등록&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61028342-6e096280-a3f3-11e9-8ad0-b4c2e0da1341.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61028466-b6288500-a3f3-11e9-8617-63a13d99c344.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;그리고 Download Manual Profiles를 클릭해줍니다.&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;Device register&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61028940-ecb2cf80-a3f4-11e9-9223-426b17deaab0.png&quot; alt=&quot;스크린샷 2019-07-11 오후 3 59 41&quot;&gt;&lt;/p&gt;
+&lt;p&gt;아이폰을 USB로 연결하고, Device를 연결한 아이폰으로 선택해줍니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61028911-d60c7880-a3f4-11e9-8b81-1e8423c42c6a.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Target의 General 탭의 Signing 섹션을 보면, 위처럼 보입니다. Register Device를 클릭해주면 해당 개발자계정에 아이폰이 등록되게됩니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61029133-4ca97600-a3f5-11e9-8ebd-56817ad9dcf0.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;개발자 사이트를 들어가서 devices를 확인해보면 이렇게 보입니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/61029309-bc1f6580-a3f5-11e9-843e-23c3b7535a1c.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;XCode에서 General 탭이 위처럼 보이면 준비는 끝입니다!&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;ios-deploy 설치&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;npm install -g ios-deploy&lt;/code&gt;&lt;/p&gt;
+&lt;ol start=&quot;5&quot;&gt;
+&lt;li&gt;react-native cli로 실행&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;react-native run-ios --device &amp;#39;&amp;lt;아이폰이름&amp;gt;&amp;#39; --configuration Release&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;XCode 및 Apple 생태계가 처음이라 애를 좀 먹었습니다 ㅠㅠ&lt;/p&gt;</content:encoded></item><item><title><![CDATA[원격으로 테스트디바이스 사용하기 - AWS Device Farm]]></title><description><![CDATA[React-native 개발하다가, device-specific한 UI 컴포넌트 버그가 있어서 재현을 해보려 했다. 하지만 팀원들이 갖고있는 디바이스를 모두 보니 Galaxy S8, V20이 전부…
+(issue는 V20에서 발생했고, Galaxy S…]]></description><link>https://new.cereme.dev/appdev/aws-device-farm/</link><guid isPermaLink="false">https://new.cereme.dev/appdev/aws-device-farm/</guid><pubDate>Tue, 09 Jul 2019 16:09:55 GMT</pubDate><content:encoded>&lt;p&gt;React-native 개발하다가, device-specific한 UI 컴포넌트 버그가 있어서 재현을 해보려 했다.&lt;/p&gt;
+&lt;p&gt;하지만 팀원들이 갖고있는 디바이스를 모두 보니 Galaxy S8, V20이 전부…
+(issue는 V20에서 발생했고, Galaxy S8에서는 발생하지 않았다)&lt;/p&gt;
+&lt;p&gt;답답한 마음에 아 이래서 디바이스가 좀 여러개 있는게 좋겠구나 생각해서 검색하던 도중 AWS Device Farm을 발견했다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/60861100-2dbfae00-a254-11e9-800a-5ef9949fd0e9.png&quot; alt=&quot;Screenshot_2019-07-09 AWS Device Farm - Amazon Web Services&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/60861341-159c5e80-a255-11e9-9792-d1f25e680f0d.png&quot; alt=&quot;Screenshot_2019-07-09 AWS Device Farm 요금 - Amazon Web Servicess&quot;&gt;&lt;/p&gt;
+&lt;p&gt;와! 시작해보자.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/60860976-abcf8500-a253-11e9-9902-365f1de2f10f.png&quot; alt=&quot;Screenshot_2019-07-09 AWS Device Farm&quot;&gt;
+국뽕을 느낄 수있다. 두유노우 삼성?&lt;/p&gt;
+&lt;p&gt;다만 그렇게 디바이스 종류가 많지는 않다. 플래그십모델정도만 있는듯?&lt;/p&gt;
+&lt;p&gt;아이폰은 모든 모델이 다 있다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/60861148-5b0c5c00-a254-11e9-8b39-37d3cdcf017d.png&quot; alt=&quot;Screenshot_2019-07-09 AWS Device Farm(2)&quot;&gt;
+테스트할 앱을 오른쪽에서 Upload 하자.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/60861175-74ada380-a254-11e9-86bb-574157df82ea.png&quot; alt=&quot;스크린샷 2019-07-09 오후 1 55 31&quot;&gt;&lt;/p&gt;
+&lt;p&gt;업로드한 apk를 클릭해서 설치한다. &lt;/p&gt;
+&lt;p&gt;실제 환경과 다르게 설치창이 뜨지는 않고 조용하게 알아서 설치된다. 기다리자.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/60861281-dbcb5800-a254-11e9-95b9-f201b831ae8a.png&quot; alt=&quot;Screenshot_2019-07-09 AWS Device Farm(3)&quot;&gt;&lt;/p&gt;
+&lt;p&gt;앱이 설치되었다. AVD 쓰듯이 사용해볼 수 있다. 다만 한국에 리전이 없어서 latency가 조금은 있는 편이다…&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;이걸로 테스트디바이스 구매를 완벽하게 대체할 수는 없겠지만…  특정 디바이스 이슈를 (구매 없이)재현해볼 수 있는 좋은 툴인 것 같다. &lt;/p&gt;
+&lt;p&gt;여러 디바이스에서 Automated Test를 해볼 수 있는 기능이 메인인 것 같으니 다음에는 Automated test를 구성해봐야겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[간단한 json storage 만들기 with S3, Lambda, API Gateway]]></title><description><![CDATA[DB를 사용할 수 없는 상황에서, 간단한 json 값을 저장할 수 있는 key-value store를 AWS S3, Lambda, API Gateway를 사용하여 만들어봤습니다. 안읽어도 되는 배경설명 사물함 호랑이 서비스에서 DB Scale down…]]></description><link>https://new.cereme.dev/backend/aws-s3-store-json-lambda-api-gateway/</link><guid isPermaLink="false">https://new.cereme.dev/backend/aws-s3-store-json-lambda-api-gateway/</guid><pubDate>Fri, 07 Jun 2019 16:09:32 GMT</pubDate><content:encoded>&lt;p&gt;DB를 사용할 수 없는 상황에서, 간단한 json 값을 저장할 수 있는 key-value store를 AWS S3, Lambda, API Gateway를 사용하여 만들어봤습니다.&lt;/p&gt;
+&lt;h2 id=&quot;안읽어도-되는-배경설명&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%95%88%EC%9D%BD%EC%96%B4%EB%8F%84-%EB%90%98%EB%8A%94-%EB%B0%B0%EA%B2%BD%EC%84%A4%EB%AA%85&quot; aria-label=&quot;안읽어도 되는 배경설명 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;안읽어도 되는 배경설명&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://lockertiger.com&quot;&gt;사물함 호랑이&lt;/a&gt; 서비스에서 DB Scale down을 하느라 Downtime이 발생할 수밖에 없는 구조를 채택했습니다.&lt;/p&gt;
+&lt;p&gt;그래서 maintenance 상태를 DB에서 저장하고 API로 프론트엔드에 알려주려고 했습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;router&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;/maintain/start&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;req&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; res&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    meta&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;update&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;isMaintaining&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; where&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;/* ... */&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            &lt;span class=&quot;token comment&quot;&gt;//...&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+router&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;/maintain/&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;req&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; res&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    meta&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;find&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;/* ... */&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;attributes&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;isMaintaining&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token comment&quot;&gt;// ...&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;DB서버가 내려갔는데 DB에 저장하고 읽어오면… 분명히 피곤할 때 짰었을거에요 ㅎㅎ;&lt;/p&gt;
+&lt;h2 id=&quot;목적&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AA%A9%EC%A0%81&quot; aria-label=&quot;목적 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;목적&lt;/h2&gt;
+&lt;p&gt;보통 간단한 정보(json, key-value)를 저장하기 위해서 Redis, memcached를 씁니다.&lt;/p&gt;
+&lt;p&gt;어차피 AWS를 쓰면 &lt;a href=&quot;https://aws.amazon.com/ko/elasticache/&quot;&gt;Elasticache&lt;/a&gt;로 간단하게 Redis나 memcached를 관리형으로 사용 할 수 있지만, 처음 쓰시는 분은 러닝커브도 좀 있고 &lt;strong&gt;정말 정말&lt;/strong&gt; 간단한 일에는 어울리지 않죠. (좋은 서비스이긴 합니다.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;값의 변경이 잦지 않고&lt;/li&gt;
+&lt;li&gt;key-value 구조이고&lt;/li&gt;
+&lt;li&gt;주로 읽기만 많이 하고&lt;/li&gt;
+&lt;li&gt;간단하고 빠르게 구축해야 하는&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;상황에서 다음과 같은 방법을 사용해봤습니다!&lt;/p&gt;
+&lt;h2 id=&quot;구조&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B5%AC%EC%A1%B0&quot; aria-label=&quot;구조 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;구조&lt;/h2&gt;
+&lt;h3 id=&quot;값을-변경할-때&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%92%EC%9D%84-%EB%B3%80%EA%B2%BD%ED%95%A0-%EB%95%8C&quot; aria-label=&quot;값을 변경할 때 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;값을 변경할 때&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;API Gateway에 Request&lt;/li&gt;
+&lt;li&gt;API Gateway가 Lambda 함수에 값 전달&amp;#x26;호출&lt;/li&gt;
+&lt;li&gt;Lambda 함수가 S3에 값을 Write&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;값을-읽을-때&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%92%EC%9D%84-%EC%9D%BD%EC%9D%84-%EB%95%8C&quot; aria-label=&quot;값을 읽을 때 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;값을 읽을 때&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Public Access를 켜놓은 S3 Bucket의 객체 URL에 그냥 접근&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;s3-세팅하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#s3-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0&quot; aria-label=&quot;s3 세팅하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;S3 세팅하기&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;퍼블릭 액세스를 허용하지 않고, Lambda에서 Read 함수를 만들어서 API Gateway에서 처리하는 방법도 있습니다. 다만 글의 길이 상 생략합니다.&lt;/em&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;버킷을 만든다. (만들면서 퍼블릭 액세스 차단을 비활성화 합시다.)&lt;/li&gt;
+&lt;li&gt;액세스 제어 목록에서 Public Read를 활성화 한다.
+&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59113312-c32f0000-897f-11e9-9adc-a520ccefceec.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;다른 Frontend에서 불러올거니까 CORS 설정도 해야한다. S3 버킷의 권한 &gt; CORS 탭에서 다음과 같이 CORS 구성을 작성하자.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;xml&quot;&gt;&lt;pre class=&quot;language-xml&quot;&gt;&lt;code class=&quot;language-xml&quot;&gt;&lt;span class=&quot;token prolog&quot;&gt;&amp;lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;CORSConfiguration&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;xmlns&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;http://s3.amazonaws.com/doc/2006-03-01/&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;CORSRule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;AllowedOrigin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;*&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;AllowedOrigin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;AllowedMethod&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;GET&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;AllowedMethod&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;MaxAgeSeconds&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;3000&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;MaxAgeSeconds&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;AllowedHeader&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Authorization&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;AllowedHeader&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;CORSRule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;CORSRule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;AllowedOrigin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;*&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;AllowedOrigin&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;AllowedMethod&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;POST&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;AllowedMethod&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;MaxAgeSeconds&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;3000&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;MaxAgeSeconds&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;AllowedHeader&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;Authorization&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;AllowedHeader&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;CORSRule&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;
+&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;CORSConfiguration&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;이제 S3 준비는 끝났습니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;lambda-세팅하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lambda-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0&quot; aria-label=&quot;lambda 세팅하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lambda 세팅하기&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;함수를 생성합니다.&lt;/li&gt;
+&lt;li&gt;근데 권한을 줄려는데, 정책 템플릿에 보면 S3에 Write할 수 있는 템플릿이 없네요. IAM 콘솔 링크로 가서 역할을 생성합시다.
+&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59113655-6b44c900-8980-11e9-9943-e8e877443487.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;li&gt;Lambda 선택하고 다음을 누릅니다
+&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59113772-a8a95680-8980-11e9-9f0c-6f45adfe5cc6.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;li&gt;우리는 S3에 값을 써야하기 때문에 S3FullAccess가 필요합니다.
+&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59113862-dc847c00-8980-11e9-8d3b-33b2fd6152a9.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;li&gt;역할 이름, 설명 등을 쓰시고 역할을 생성합니다.&lt;/li&gt;
+&lt;li&gt;다시 람다 페이지로 돌아와서, 권한에서 “기존 역할 사용”을 선택하고 아까 만든 역할을 선택한 후 함수를 생성합니다.
+&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59114049-47ce4e00-8981-11e9-82ae-d619d2d8f5f6.png&quot; alt=&quot;image&quot;&gt;
+올바른 권한으로 잘 만들어진 모습입니다.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;함수를 작성해봅시다. 코드에서는 javascript의 aws-sdk를 사용했지만 python의 boto3를 사용하셔도 좋습니다. &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;exports&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function-variable function&quot;&gt;handler&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;event&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;AWS&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;aws-sdk&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;S3&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;AWS&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;S3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+    &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; response &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;S3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;putObject&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        Bucket&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;your-bucket&gt;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        Key&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;foo.json&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token constant&quot;&gt;ACL&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;public-read&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        Body&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;JSON&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;stringify&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            isMaintaining&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; event&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;isMaintaining&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;promise&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; response&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Bucket에 json을 업로드 하기 위해서 bucket 이름, key와 value를 putObject 함수에 넘겨줬습니다.&lt;/p&gt;
+&lt;p&gt;그리고 업로드한 객체가 public readable 하도록 ACL에 ‘public-read’를 지정했습니다.&lt;/p&gt;
+&lt;p&gt;더 자세한 putObject 함수에 대해서는 &lt;a href=&quot;https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#putObject-property&quot;&gt;https://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html#putObject-property&lt;/a&gt; 를 참조해보세요.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;함수를 저장합니다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;api-gateway-세팅하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#api-gateway-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0&quot; aria-label=&quot;api gateway 세팅하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;API Gateway 세팅하기&lt;/h2&gt;
+&lt;p&gt;만들어놓은 Lambda 함수를 호출하기 위해서는 Trigger가 필요합니다. &lt;/p&gt;
+&lt;p&gt;백엔드에서 호출하려면 REST API가 제일 간단하니, AWS의 API Gateway를 통해서 우리가 만들어놓은 Lambda 함수를 불러봅시다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;API를 새로 만듭니다.
+&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59114840-03dc4880-8983-11e9-9d1b-b60f38f29e86.png&quot; alt=&quot;image&quot;&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;작업 버튼을 눌러 리소스를 하나 만들어줍니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59114943-35edaa80-8983-11e9-829b-2b370385d189.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;만든 리소스에 대해 메소드를 만들어줍니다. Lambda 함수 입력란에 아까 만들어놓은 함수의 이름을 입력해서 선택하고, 저장합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59115024-5e75a480-8983-11e9-83d2-2e59b3b54ce9.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;API 배포를 하지 않으면 API가 동작하지 않습니다. API 배포를 눌러서 API를 배포합니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59115394-2c187700-8984-11e9-90ba-4c4d7d8e063c.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;사용할 수 있는 API url이 나옵니다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://user-images.githubusercontent.com/19284878/59115753-e6a87980-8984-11e9-901d-2e4208f5a932.png&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;이제 백엔드에서 json body와 함께 POST하기만 하면 됩니다.&lt;/p&gt;
+&lt;p&gt;읽을 때는 &lt;code class=&quot;language-text&quot;&gt;https://s3.ap-northeast-2.amazonaws.com/&amp;lt;your-bucket&amp;gt;/foo.json&lt;/code&gt;에 GET 해오면 되구요.&lt;/p&gt;
+&lt;p&gt;사실 S3 + Lambda + API Gateway는 엄청 강력한 툴입니다만, 이렇게 간단한 용도로 빠르게 쓰기에도 상당히 괜찮다는 생각이 듭니다.&lt;/p&gt;
+&lt;p&gt;도움이 되셨으면 좋겠으며, 피드백 환영합니다! :)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Flask에서 Vue.js 템플릿 사용하기]]></title><description><![CDATA[간단하게 만든 앱에서, 백엔드는 , 프론트엔드는 로 구성을 했는데, 빌드해서 templates에 넣으니, 페이지가 제대로 안나오는 문제가 있었다. Solution Vue 빌드 후 빌드 결과물 flask templates 폴더로 복사 Flask…]]></description><link>https://new.cereme.dev/frontend/serve-vuejs-on-flask-setting/</link><guid isPermaLink="false">https://new.cereme.dev/frontend/serve-vuejs-on-flask-setting/</guid><pubDate>Thu, 09 May 2019 16:10:13 GMT</pubDate><content:encoded>&lt;p&gt;간단하게 만든 앱에서, 백엔드는 &lt;code class=&quot;language-text&quot;&gt;Flask&lt;/code&gt;, 프론트엔드는 &lt;code class=&quot;language-text&quot;&gt;Vue.js&lt;/code&gt;로 구성을 했는데, 빌드해서 templates에 넣으니, 페이지가 제대로 안나오는 문제가 있었다.&lt;/p&gt;
+&lt;h1 id=&quot;solution&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#solution&quot; aria-label=&quot;solution permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Solution&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;Vue 빌드 후 빌드 결과물 flask templates 폴더로 복사&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Flask에서 static_folder 설정&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;app &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; Flask&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__name__&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; static_folder&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;./templates&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;index.html에서 main.js를 static folder에서 load하도록 변경&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;html&quot;&gt;&lt;pre class=&quot;language-html&quot;&gt;&lt;code class=&quot;language-html&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;&lt;/span&gt;script&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;type&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;text/javascript&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt; &lt;span class=&quot;token attr-name&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;token attr-value&quot;&gt;&lt;span class=&quot;token punctuation attr-equals&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;{{ url_for(&lt;span class=&quot;token punctuation&quot;&gt;&apos;&lt;/span&gt;static&lt;span class=&quot;token punctuation&quot;&gt;&apos;&lt;/span&gt;, filename=&lt;span class=&quot;token punctuation&quot;&gt;&apos;&lt;/span&gt;main.js&lt;span class=&quot;token punctuation&quot;&gt;&apos;&lt;/span&gt;) }}&lt;span class=&quot;token punctuation&quot;&gt;&quot;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token script&quot;&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;script&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token tag&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;&amp;lt;/&lt;/span&gt;body&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;사족&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%82%AC%EC%A1%B1&quot; aria-label=&quot;사족 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;사족&lt;/h1&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;127.0.0.1 - - [09/May/2019 10:04:14] &amp;quot;GET / HTTP/1.1&amp;quot; 200 -
+127.0.0.1 - - [09/May/2019 10:04:14] &amp;quot;GET /main.js HTTP/1.1&amp;quot; 404 -&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Flask 로그 보고 왜 안되는지 깨달았당.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Vue cli 3에서 IE11 Polyfill 하기]]></title><description><![CDATA[Vue 앱을 IE에서 켜다보면 화면이 제대로 나오지 않거나, 빈 페이지가 나오거나 한다. Polyfill을 하면 해결된다.  main.js에 추가 vue.config.js에 webpack 설정 추가
+만약 없다면 루트 디렉토리에 파일을 만들면 된다.]]></description><link>https://new.cereme.dev/frontend/vue-cli-3-ie-polyfill/</link><guid isPermaLink="false">https://new.cereme.dev/frontend/vue-cli-3-ie-polyfill/</guid><pubDate>Thu, 09 May 2019 16:09:07 GMT</pubDate><content:encoded>&lt;p&gt;Vue 앱을 IE에서 켜다보면 화면이 제대로 나오지 않거나, 빈 페이지가 나오거나 한다.&lt;/p&gt;
+&lt;p&gt;Polyfill을 하면 해결된다.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;code class=&quot;language-text&quot;&gt;yarn add babel-polyfill&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;main.js에 추가&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;babel-polyfill&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//add this line&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; Vue &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;vue&apos;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./plugins/vuetify&apos;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;import&lt;/span&gt; App &lt;span class=&quot;token keyword&quot;&gt;from&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;./App.vue&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;vue.config.js에 webpack 설정 추가
+만약 없다면 루트 디렉토리에 파일을 만들면 된다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+configureWebpack&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    entry&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;babel-polyfill&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;./src/main.js&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</content:encoded></item><item><title><![CDATA[AWS Lambda와 Cloudwatch의 Event를 통해 주기적으로 Lambda 함수 실행하기]]></title><description><![CDATA[이렇게 일주일에 한 번 업데이트되는 식단표를 슬랙에 공유하고 싶었다. image…]]></description><link>https://new.cereme.dev/backend/aws-lambda-cloudwatch-event-cronjob/</link><guid isPermaLink="false">https://new.cereme.dev/backend/aws-lambda-cloudwatch-event-cronjob/</guid><pubDate>Wed, 13 Mar 2019 16:09:18 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 448px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 80%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAACkUlEQVQ4y2VUCXLiMBDM/7+zmyekUlvhSEggBAO+sY0P7oCxobdbxBRUKMYayaOenpbGD8vlEkWxwG67wSwM4TkufNdBHMdI4gjr1Qr772+cTjVOdXWxW7+uUXMsy9LYw263gzW24HoB+sMpPgYWPj4tDMcOBiMHEyfA1J3Bj7IfS+HNLmMQ5/RTRPMCh8MB+/0eD0LdbrdIswXGbgTLDvBpuXC5yaF50cXcMOVaCiecY+InlzXFcD1MCrL7AdSjPJT4ZlmLIkeezhEGAXZcP9VHU86ZJfLB/8n4KrU68l11MfliKDOActbrNaqqQvM7n89m3Gw2mM+ZhPpK1zTNyOSA259ilcxo2ABqo8baiHyxE4OURJJI66Jg2fYEoW9fq9J6XV1i7wD1Ik0pNMt1HBue5xl/Op2add/3kSQJ+m9vsEdfGI/H6Pf7+KJvWSOT9MjSr4Ba0BWSTScTU55AtbFYFEziGFm+RiPOF3Bd18iQZamJE6E7hgJcESxnsM2AiLqJWUJgJfED38gi1gvGiPFsNrvqq/J/abiiLaMIeaeD9XCIiL5MgBpXvORiJkDNlVD7llzfkuHxjqFe0NYsbfb3D5ZPT0ipWUgWDYCqEBsBmxPPcxzCGHve3d16g/JOwwZQbff4iN2/fyi4IaOJoW1PDZC01Fylz8nQALKTfgMy+4KBLk8s6vUQ0D4HA4w4L4rCsGxugmKVTJqXJS+1LnbTy7eAOkWXB+KzTJeiS3gxcj0XudhmGcFzcxDyzaFRlpgfEWGYa9M0tQAV1Ou94f39He1WC51uB+12G91ul9bB62sXrXYLLy8veH5+5vwVNu9sksQ4sHsMw6Y71BEyZWk+RfIba+bVsbqu3bZq01X/AWNquMm4+fyYAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/12371f281c9099b34c78500d5ecf4457/33b38/yoshi_slack.png&quot;
+        srcset=&quot;/static/12371f281c9099b34c78500d5ecf4457/5a46d/yoshi_slack.png 300w,
+/static/12371f281c9099b34c78500d5ecf4457/33b38/yoshi_slack.png 448w&quot;
+        sizes=&quot;(max-width: 448px) 100vw, 448px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이렇게 일주일에 한 번 업데이트되는 식단표를 슬랙에 공유하고 싶었다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/slack_menu.PNG&quot; alt=&quot;image&quot;&gt;&lt;/p&gt;
+&lt;p&gt;물론 온라인으로 식단표를 공유하지 않는 식당은 이렇게 사진으로 찍어서 올리는 수밖에 없지만…&lt;/p&gt;
+&lt;p&gt;마침 옮기게 된 사무실 주변에 있는 국립국악원 구내식당은 온라인으로 식단표를 제공했다!&lt;/p&gt;
+&lt;p&gt;매주 월요일 아침마다 식단표를 긁어올 수 있게 AWS Lambda와 Cloudwatch를 구성해보자.&lt;/p&gt;
+&lt;h2 id=&quot;lambda-함수-만들기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lambda-%ED%95%A8%EC%88%98-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot; aria-label=&quot;lambda 함수 만들기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Lambda 함수 만들기&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1172px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABW0lEQVQoz21S2XKDMAz0//9dn5qXZhqnLQGfsuQzhlROj6HHsmjweg0aVuLxcDjKV6X1opS2FkL4Jn4hMHDH+5J1AQBjG4MHYKHs4DBeXFgADWYXy47VxqIgCfCQh7P23m8/sBlMBzk9z+7FoqI2h3IJeVSfXn2WLolAZdvW3lfGz8O3yeLD02zLavI3+6ip27Kp2ATw6VJyyYy0I2uzxeMElrLGxJ3/ogpRnM9nC1hq/cvWWu+t8vU/m1jU4iG0Wvt1oPfruuf1E6yz4cPTvkRhPWoHQDGmnFJygZQnBVHBeFg8BYpMj6MCjiV7kYgpJu0nA3J2NsR17WeXjrZIX5knV09w5WBmSJaK54Soxtq54zDSRcEhR34XEf8y7uvi6DQbuViusydoG+ZqjbF8a+29X/vKbcOYExQU073lzDmz+uZQmiB1kAYvoUxYHaX7FBEPE9vYw0l8fPkdRKd1G3Jc50wAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/9d076ff6dc8d697da37c708b5be36efc/511f0/slack_lambda.png&quot;
+        srcset=&quot;/static/9d076ff6dc8d697da37c708b5be36efc/5a46d/slack_lambda.png 300w,
+/static/9d076ff6dc8d697da37c708b5be36efc/0a47e/slack_lambda.png 600w,
+/static/9d076ff6dc8d697da37c708b5be36efc/511f0/slack_lambda.png 1172w&quot;
+        sizes=&quot;(max-width: 1172px) 100vw, 1172px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Slack의 Incoming Webhook을 KMS Encrypt해서 저 블루프린트를 채우는 과정은 다음 글을 참고하면 좋다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ngee.tistory.com/1449&quot;&gt;(다시쓰는) AWS CloudWatch Alarm Writing to Slack Using Lambda by ngee&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://ngee.tistory.com/1139&quot;&gt;Lambda로 Slack에 메세지 작성하기를 위한 key 생성 및 URL 암호화&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;그리고 우리는 Cloudwatch 로그를 전송할것이 아니므로, 관련 소스코드를 삭제한 후,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;def &lt;span class=&quot;token function&quot;&gt;lambda_handler&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;event&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; context&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+    base_url &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;http://www.gugak.go.kr&apos;&lt;/span&gt;
+    page_source &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;urlopen&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;http://www.gugak.go.kr/site/homepage/menu/food&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;decode&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;utf-8&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    
+    img_url &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; re&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;compile&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;r&lt;span class=&quot;token string&quot;&gt;&apos;&amp;lt;img src=\&quot;(.*)\&quot; alt&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;search&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;page_source&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+    
+    logger&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;base_url &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; img_url&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+
+    slack_message &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&apos;channel&apos;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;SLACK_CHANNEL&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;text&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;http://www.gugak.go.kr/site/homepage/menu/food&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+        &lt;span class=&quot;token string&quot;&gt;&quot;attachments&quot;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token string&quot;&gt;&quot;image_url&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; base_url &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; img_url&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+                &lt;span class=&quot;token string&quot;&gt;&quot;thumb_url&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; base_url &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; img_url
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+        
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+    req &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;Request&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token constant&quot;&gt;HOOK_URL&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; json&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;dumps&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;slack_message&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;encode&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;utf-8&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;try&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+        response &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;urlopen&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;req&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        response&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;read&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+        logger&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;info&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Message posted to %s&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; slack_message&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;channel&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    except HTTPError &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; e&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+        logger&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Request failed: %d %s&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; e&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;code&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; e&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;reason&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    except URLError &lt;span class=&quot;token keyword&quot;&gt;as&lt;/span&gt; e&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;
+logger&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Server connection failed: %s&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; e&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;reason&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이런식으로 짜준다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 213px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 33.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAABG0lEQVQoz42QX0+DMBTF+f6fyPjkA8nMIEt07gEdA+lwYGH8py0Ujm0dmTHRrEmT5tzfPT33Wvh15nnGLdpfx1o/ruAfQpxSioPvIwjf0fQCq1eKDSmRdYMBJ2U6/3OXj63d9hkROaKoahwJQfpJMYwT1v4ZLqlQsvGmZIupJcYRTAiMUqLrexRlBS64Ri7khFbpPWNgXBi2aVvUTYNOaaPql3K6JiQkAmPCCEEQwLZt846iAHf3DxgUPKim3csWjuuamud5cB1H1STS0xHO5ulq2HatSvRtSCnF234POU0oihzxR2refBhwzjPEcWy4JEkQhiGE0uu6As3yyzzKUIvakHFuAD26Hu3nbnRdp9HmmtOJ9V2CLJxe4xdgkx0ljfMOkwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/ebe7b6f58ca6e5e4835c6881029baada/3cb16/slack_lambda_timeout.png&quot;
+        srcset=&quot;/static/ebe7b6f58ca6e5e4835c6881029baada/3cb16/slack_lambda_timeout.png 213w&quot;
+        sizes=&quot;(max-width: 213px) 100vw, 213px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;인터넷 리소스에 접근하는 코드이기때문에 Lambda의 기본 타임아웃(3초)은 초과할 수 있다. 넉넉하게 Timeout을 늘려주자.&lt;/p&gt;
+&lt;h2 id=&quot;cloudwatch-event-by-cron-expression&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#cloudwatch-event-by-cron-expression&quot; aria-label=&quot;cloudwatch event by cron expression permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Cloudwatch Event by cron expression&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 180px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 228.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAuCAIAAACnCq6RAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADb0lEQVRIx6VWaXPiRhD1382v2qp8zZekklRc9q6xF1jAZo2JF+viECB0GB2jaySNZqT0CGI7tQtITpeKUol56tfXa52VZWGZ5nq1dpEXRtFsPpUlUVVXq9Xa0A3TMEuwoih/ZGdlyaay3Ot+GQ77N53u+cVF5+aqddX6/fxyMLh9uB9V4PIQ+P3GwcixNW3jB4GHkGWZrus5jnOA6XfguTj5+LElKIooSv1eVxDF8XicZuRwsNwYYzvaRZIkrChykrPKCriOuoYzaZZxMMbYcZ3ARxgnlbfTjCmlZAeWhAnkedAHwnJNMBwJkVt5jiPXQ3meE5LXzDN4hvNnLzEQQhijEOxxGBxzHBchlKbpHozj2PPgkZdl2Z4Wv9jbdO/CQchfLFRNW5MXz/AcXLKDvfSfPPu+Dzl+7TAaWkR/yp0NseQcmTS2yVZJ5124P9rb1R+ZJYQPvyWaHEutdDEk3hJLLSxdZqZ8fDD+R2/v0iC7s54xWaC1Hjo1S/0KVtGybzzeGmMtagJ+KQOkMae0KIvGtNX5bHB71+190U29Me2tZYiSYm+3yEdNaReM06YwkkVlDZREFIS/v437vc7NdbfT7dhOXeccHAShYZrPlgFm23ZcTXW9mBktaQJ+aDVm9TlzMI2eM+lPUOjO5/anVmu6XDVIGEsCajyAYs4XyziOPOS/gE++Yt8kOc2BfxzjKIpwAlGwJE1BpY7j93WeSuK38ej88tPN9fXkSTQ368ur65kiu2+IHPQMvZmlKehJAgqKMWgNlCAIgjTNTtDGOA7CKOG4pCwbNPdeeu9HY99HqrrkLGA83tgJcBiAKvkRN9x40YEB5TiMIFQf+WEYwrvqaPg+28u58vg4UebK17uhIAifO21NN0+Weu8ZtlYYRnwDcctoZbVou45tu56PPMh5/d78dz/PlPv70WjYf5LmTcFcv6KIt0SM35Xtt7vzPeBGk/wK9lx7pWkwj6AnzvZZ0zfQ46ZpQcOfBlvGRpJlKBWA9c16oao4SQEM2/40mOWEVef4t0ylRrv7WmIQZew54F9CGLqDFVnOEsLgl7d9ksNNnNLiEPjntvbTh8nVSP9wobbF7S/t1V8P286TvQ2yXwebu6n7x63uJ/T7WnDwyk6+qgEKUwV2ZJitt9iNiBeTlDA/zuAXHmb5D3z/A98KdU7ZMuSSAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/62a65038031c4dcec74f36a89022d0ac/e9ff0/slack_cloudwatch.png&quot;
+        srcset=&quot;/static/62a65038031c4dcec74f36a89022d0ac/e9ff0/slack_cloudwatch.png 180w&quot;
+        sizes=&quot;(max-width: 180px) 100vw, 180px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Cloudwatch &gt; 이벤트 &gt; 규칙에 들어가서 “규칙생성” 버튼을 누른다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 770px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA9klEQVQoz5WSjW6EIBCEff/HxAJqVP4WFATbUS5NL+WSuy+aLGQnywx0fd8vy6KVOo4j55xSOm7SDYoYYynlu0VHzmmglCOyd+29J0fYQW2tXdc1xdgW51LMhZ6VHRU0K3bOP6AJ/9miO0sOwWujV9WGiHCW7ZkQwrbt3aSDsQ7Gwg364DC/R7fHKxhUNaQaG4CTeZlhGN5rQ0NcXf1Sl56Ic4Hvi3PGmBCiHdgrMaRSDpzznjEUn4mlEFLKazhjw/CJ2FnHb8Tj2LItrgnVl7SnvMUjlxNvYxwnTJ6mCYYxuTxf/uOejTUVi3F+17SHLZV/NNP+AVyCubGn2PrwAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/06ba66cd9fa1c89368e5721a67486334/f4b77/slack_cloudwatch_cron.png&quot;
+        srcset=&quot;/static/06ba66cd9fa1c89368e5721a67486334/5a46d/slack_cloudwatch_cron.png 300w,
+/static/06ba66cd9fa1c89368e5721a67486334/0a47e/slack_cloudwatch_cron.png 600w,
+/static/06ba66cd9fa1c89368e5721a67486334/f4b77/slack_cloudwatch_cron.png 770w&quot;
+        sizes=&quot;(max-width: 770px) 100vw, 770px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2019/03/18 수정&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;KST는 GMT+9니까, GMT-9를 입력해줘야죠… KST 09:00:00을 표현하고싶으면 GMT 00:00:00을 설정하는게 맞습니다…&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;그리고 이렇게 cron expression을 입력하면 어떤 시점들이 트리거되는지 리스트로 보여준다. 밑에 “자세히 알아보십시오”를 누르면 식을 어떻게 작성해야되는지 나와있으니 참조하자.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 770px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 34.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAAAq0lEQVQoz52Q0Q6DIAxF+f+v9MU4M0AIsCgoHZesBI0PZk1OWqC9LRXbFmnfd0op/ejiGKuPMbW74zgIlnOmOxPLspDWmqy1BUPOOTLljr0xpr7Dg3Vdm2APNxOvaaIQwm0Sg0TAMX7UE8tP5nkmpRQJHNjQXUpZCeFTi9H5KnAFOaitE0r5rsoQ5tGvu3oC5wvsznvfHnp7KsaC8GIYBhrHsYy8nfb1D6j/Ai8AJj0/IgJhAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/c210d484574bd4867d47604d16cecca0/f4b77/slack_cloudwatch_lambda.png&quot;
+        srcset=&quot;/static/c210d484574bd4867d47604d16cecca0/5a46d/slack_cloudwatch_lambda.png 300w,
+/static/c210d484574bd4867d47604d16cecca0/0a47e/slack_cloudwatch_lambda.png 600w,
+/static/c210d484574bd4867d47604d16cecca0/f4b77/slack_cloudwatch_lambda.png 770w&quot;
+        sizes=&quot;(max-width: 770px) 100vw, 770px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;그리고 아까 Lambda에서 만들었던 함수를 연결시켜주면 된다.&lt;/p&gt;
+&lt;h2 id=&quot;끝&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%81%9D&quot; aria-label=&quot;끝 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;끝!&lt;/h2&gt;
+&lt;p&gt;slack message의 attachments에 image link를 넣어서 그런지 간헐적으로? 이미지가 보이지 않는다… (계속 하면 가끔 됐다 안됐다 랜덤으로 재현됨…)&lt;/p&gt;
+&lt;p&gt;lambda에서 사진 데이터를 다운로드 받은 후 S3에 올려서 Slack에 link를 넘겨주면 해결될 것 같긴 한데 아직 시도는 못해봤다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Javascript replace 는 replaceAll이 아니다(feat.regex)]]></title><description><![CDATA[2019년 03월 06일, 학생회 사물함 배정 솔루션 “사물함호랑이”를 처음으로 실사용했다.
+사이드 프로젝트였고, 다른 프로젝트때문에 시간이 없어 테스트를 거의 못했다. 그래서 나온 실수 2가지 중 한가지를 포스팅해본다. 파이썬에서는 replace…]]></description><link>https://new.cereme.dev/frontend/javascript-replace-is-not-replaceall/</link><guid isPermaLink="false">https://new.cereme.dev/frontend/javascript-replace-is-not-replaceall/</guid><pubDate>Wed, 06 Mar 2019 16:10:19 GMT</pubDate><content:encoded>&lt;p&gt;2019년 03월 06일, 학생회 사물함 배정 솔루션 “사물함호랑이”를 처음으로 실사용했다.
+사이드 프로젝트였고, 다른 프로젝트때문에 시간이 없어 테스트를 거의 못했다.&lt;/p&gt;
+&lt;p&gt;그래서 나온 실수 2가지 중 한가지를 포스팅해본다.&lt;/p&gt;
+&lt;p&gt;파이썬에서는 replace가 string 안의 모든 일치하는 substring을 대체해준다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python&quot;&gt;&lt;pre class=&quot;language-python&quot;&gt;&lt;code class=&quot;language-python&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;010-1234-5678&apos;&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;replace&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;-&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token string&quot;&gt;&apos;01012345678&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;그런데 자바스크립트는 그렇지 않다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;010-1234-5678&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;undefined&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;-&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token string&quot;&gt;&quot;0101234-5678&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;메소드들을 살펴보니, replaceAll같은 메소드는 없다…&lt;/p&gt;
+&lt;p&gt;흠… 그래서 검색해본 결과&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; s &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;010-1234-5678&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;undefined&lt;/span&gt;
+&lt;span class=&quot;token operator&quot;&gt;&gt;&gt;&lt;/span&gt; s&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token regex&quot;&gt;/-/g&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token string&quot;&gt;&quot;01012345678&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이렇게 regex에 global 태그를 주면 된다는 사실을 알았다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D#%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%9C_%EA%B3%A0%EA%B8%89%EA%B2%80%EC%83%89&quot;&gt;https://developer.mozilla.org/ko/docs/Web/JavaScript/Guide/%EC%A0%95%EA%B7%9C%EC%8B%9D#%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%9C_%EA%B3%A0%EA%B8%89%EA%B2%80%EC%83%89&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1200px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 34.66666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAYAAAAIy204AAAACXBIWXMAAAsSAAALEgHS3X78AAAA7ElEQVQoz5WS22qFMBBF8/+f14dCac/R3DQx3o13T3cn8bQUCgUfFiMz22GFhEkpIZUCFyKScg7vRxyPT+zHcRkmM4O70HhPBF5e35BqA9cORI+iuQ4byMZPM1xZIzMFumFE76dY/bRchs3LinndaGEFYwtYVyI3FmVVY912LDQ72Z9s/8J6MhnGmZY5cKmgdB6p2w6e+r0/jUM97c98NPqufwyJth9Q1U20DMvrpkVFODIuCFu4SJh3lF33I7L8PgV9/xhKnSHhEveUbltqCKVxS3i0Fiqjl/CcUy+lnhEK+ccNCeXDPyFrXYUvPi4Vef8m2X0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/d06c4be984f9d0fd787f5e35b6aae973/c1b63/190306_regex.png&quot;
+        srcset=&quot;/static/d06c4be984f9d0fd787f5e35b6aae973/5a46d/190306_regex.png 300w,
+/static/d06c4be984f9d0fd787f5e35b6aae973/0a47e/190306_regex.png 600w,
+/static/d06c4be984f9d0fd787f5e35b6aae973/c1b63/190306_regex.png 1200w,
+/static/d06c4be984f9d0fd787f5e35b6aae973/7f15f/190306_regex.png 1530w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[시간을 다룰때는 Timezone을 생각하자]]></title><description><![CDATA[2019년 03월 06일, 학생회 사물함 배정 솔루션 “사물함호랑이”를 처음으로 실사용했다.
+사이드 프로젝트였고, 다른 프로젝트때문에 시간이 없어 테스트를 거의 못했다. 그래서 나온 실수 2가지 중…]]></description><link>https://new.cereme.dev/backend/be-aware-of-timezone/</link><guid isPermaLink="false">https://new.cereme.dev/backend/be-aware-of-timezone/</guid><pubDate>Wed, 06 Mar 2019 16:09:11 GMT</pubDate><content:encoded>&lt;p&gt;2019년 03월 06일, 학생회 사물함 배정 솔루션 “사물함호랑이”를 처음으로 실사용했다.
+사이드 프로젝트였고, 다른 프로젝트때문에 시간이 없어 테스트를 거의 못했다.&lt;/p&gt;
+&lt;p&gt;그래서 나온 실수 2가지 중 2번째다.
+상당히 치명적인 버그였다.
+저녁 일찍 먹고 컴퓨터 앞에 앉아있지 않았으면 좀 큰일났을 뻔 했다…&lt;/p&gt;
+&lt;p&gt;문제의 코드는 다음과 같다. (Express.js)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; openTime &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; meta&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;findById&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;openTime&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; nowTime &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;nowTime &lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt; openTime&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;여기서 Sequelize.js에서 가져온 openTime은 클라이언트에서 입력한 시간이다. 한국 대상 서비스이기때문에 KST 기준으로 입력을 받았다.&lt;/p&gt;
+&lt;p&gt;테스트코드 없이 날코딩했기때문에 테스트는 로컬에서 수동으로 진행됐고, 로컬의 시간은 KST였다.&lt;/p&gt;
+&lt;p&gt;근데, 서비스를 하는 환경은 AWS EC2였고, 당연히 시간 설정은 UTC였다.&lt;/p&gt;
+&lt;p&gt;그래서 실제 시간이 openTime보다 지나도, 서버에서는 nowTime이 KST-9:00 였기때문에 오픈을 못한 참사가 벌어졌다.&lt;/p&gt;
+&lt;p&gt;서비스에서 사용하는 모든 시간정보는 UTC로 저장하는 것이 편하다, 라는걸 알고 있었는데 ‘대충하는 사이드프로젝트니까~’ 이런 마인드를 가졌던게 화근이다.&lt;/p&gt;
+&lt;p&gt;일단 서비스를 지속해야하기 때문에 UTC를 KST로 변환하는 코드를 작성해서 적용했다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; moment &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;moment&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; nowTime_KST &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;Date&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;moment&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;utcOffset&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;+09:00&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toISOString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token boolean&quot;&gt;true&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;replace&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;+09:00&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;Z&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;이전에 &lt;a href=&quot;https://flagger.space&quot;&gt;Project Flagger&lt;/a&gt; 알파테스트를 했을 때 “작성한 글 시간 보여주기” 기능에서 인지했던 부분이었는데, 이번에는 심지어 시간이 정말 핵심 비즈니스로직에 관여된 프로젝트에서 캐치하지 못하고 이런 만행을 저지른게 정말 슬프다.&lt;/p&gt;
+&lt;p&gt;자신의 무능에 엄격하라. 라는 문구를 듣고 처음 실천해보는 실수 포스팅이다. 이제 시간 관련해서 이런 실수는 안했으면 좋겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[multer-s3를 활용한 AWS S3 파일업로드]]></title><description><![CDATA[multer-s3를 활용한 AWS S3 파일업로드. 
+사용 스택 : Express.js / Vue.js + Bootstrap-vue 준비물 AWS계정과 IAM 키 AWS S3 버킷 express에서 multer, multer-s3 설치 S…]]></description><link>https://new.cereme.dev/backend/multer-s3를-활용한-aws-s3-파일업로드/</link><guid isPermaLink="false">https://new.cereme.dev/backend/multer-s3를-활용한-aws-s3-파일업로드/</guid><pubDate>Thu, 27 Sep 2018 16:09:38 GMT</pubDate><content:encoded>&lt;p&gt;multer-s3를 활용한 AWS S3 파일업로드.
+사용 스택 : Express.js / Vue.js + &lt;a href=&quot;https://bootstrap-vue.js.org/&quot;&gt;Bootstrap-vue&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;준비물&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;AWS계정과 IAM 키&lt;/li&gt;
+&lt;li&gt;AWS S3 버킷&lt;/li&gt;
+&lt;li&gt;express에서 multer, multer-s3 설치&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;s3-인스턴스-얻어오기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#s3-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EC%96%BB%EC%96%B4%EC%98%A4%EA%B8%B0&quot; aria-label=&quot;s3 인스턴스 얻어오기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;S3 인스턴스 얻어오기&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;token constant&quot;&gt;AWS&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;aws-sdk&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token constant&quot;&gt;AWS&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;config&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;loadFromPath&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;__dirname &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;/../config/aws.json&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; s3 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;AWS&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;S3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;aws.json은 다음과 같은 형식이다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;&quot;accessKeyId&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;blahblah&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;&quot;secretAccessKey&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;blahblah&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token property&quot;&gt;&quot;region&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;your_region&quot;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&quot;upload하는-multer-s3-객체-만들기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#upload%ED%95%98%EB%8A%94-multer-s3-%EA%B0%9D%EC%B2%B4-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot; aria-label=&quot;upload하는 multer s3 객체 만들기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Upload하는 multer-s3 객체 만들기&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; multer &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;multer&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; multerS3 &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;multer-s3&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; path &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;path&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; uuid &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;uuid/v4&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    upload &lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;multer&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+        storage&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;multerS3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+            s3&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; s3&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+            bucket&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;your_bucket&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+            &lt;span class=&quot;token function-variable function&quot;&gt;key&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;req&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; file&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; cb&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+                &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; extension &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; path&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;extname&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;file&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;originalname&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+                &lt;span class=&quot;token function&quot;&gt;cb&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;uuid&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; Date&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;now&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;toString&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; extension&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+            &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+            acl&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;public-read-write&apos;&lt;/span&gt;
+        &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+    &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;key는 버킷에 올라갈 파일의 이름이다.&lt;/p&gt;
+&lt;h2 id=&quot;만든-multer-s3-객체로-post-라우팅하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A7%8C%EB%93%A0-multer-s3-%EA%B0%9D%EC%B2%B4%EB%A1%9C-post-%EB%9D%BC%EC%9A%B0%ED%8C%85%ED%95%98%EA%B8%B0&quot; aria-label=&quot;만든 multer s3 객체로 post 라우팅하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;만든 multer-s3 객체로 POST 라우팅하기&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;//최대 5개까지 업로드할 수 있음&lt;/span&gt;
+router&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;/upload&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; s3Api&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;upload&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;img&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;5&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;req&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; res&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; next&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; imgFile &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; req&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;files&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    res&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;imgFile&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token comment&quot;&gt;//1개 업로드&lt;/span&gt;
+router&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;/upload&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; s3Api&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;multerS3Upload&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;single&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;img&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;req&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; res&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; next&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; imgFile &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; req&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;file&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    res&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;json&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;imgFile&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;multer-s3에서 자동으로 AWS S3에 업로드 해줍니다.&lt;/p&gt;
+&lt;h2 id=&quot;프론트엔드-만들기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0&quot; aria-label=&quot;프론트엔드 만들기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프론트엔드 만들기&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;b&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;form&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;file v&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;model&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;file&quot;&lt;/span&gt; ref&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;fileinput&quot;&lt;/span&gt; id&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;file&quot;&lt;/span&gt; 
+   accept&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;image/*&quot;&lt;/span&gt; placeholder&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;Choose a file...&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;/&lt;/span&gt;b&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;form&lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;file&lt;span class=&quot;token operator&quot;&gt;&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Bootstrap-vue의 Form file에 대한 공식 정보는 &lt;a href=&quot;https://bootstrap-vue.js.org/docs/components/form-file&quot;&gt;여기&lt;/a&gt;서 확인할 수 있습니다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; formdata &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;token class-name&quot;&gt;FormdData&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+formdata&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;push&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;file&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+axios&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;post&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;/upload&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;formdata&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  headers&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token string&quot;&gt;&apos;Content-Type&apos;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;multipart/form-data&apos;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;then&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;res&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;res&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;획득한 Javascript File 객체를 FormData에 넣고, 아까 라우팅한 주소에 POST를 해줍니다.&lt;/p&gt;</content:encoded></item></channel></rss>
