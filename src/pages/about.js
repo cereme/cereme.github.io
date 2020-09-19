@@ -3,6 +3,7 @@ import { graphql } from 'gatsby'
 import { Layout } from '../layout'
 
 import { rhythm } from '../utils/typography'
+import '../styles/about.scss'
 import * as Lang from '../constants'
 
 export default ({ data, location }) => {
@@ -15,6 +16,7 @@ export default ({ data, location }) => {
   return (
     <Layout location={location} title={siteMetadata.title}>
       <div
+        className="about"
         style={{
           marginLeft: `auto`,
           marginRight: `auto`,
