@@ -6,6 +6,7 @@
   font-weight: 900;
   font-size: 48px;
   letter-spacing: -2px;
+  display: flex;
 }
 
 .link {
@@ -24,9 +25,17 @@
   margin-left: 16px;
 }
 
+.theme-switch {
+  margin-left: auto;
+}
+.mobile-theme-switch {
+  display: none;
+}
+
 @include mobile {
   h1.home-header {
     margin-bottom: 0;
+    width: 100%;
   }
   .header-container {
     flex-direction: column;
@@ -35,5 +44,12 @@
   }
   .shortDescription-header {
     margin-left: 0;
+  }
+  .mobile-theme-switch {
+    display: inline;
+    margin-left: auto;
+  }
+  .theme-switch {
+    display: none;
   }
 }
