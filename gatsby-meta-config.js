@@ -3,7 +3,7 @@ module.exports = {
   description: `<meta.description>`,
   shortDescription: `Sang yun Pae, Software Engineer`,
   author: `cereme`,
-  introduction: `<meta.introduction>`,
+  introduction: `프로덕트를 만들어 나가는게 너무나 즐거운 주니어 개발자`,
   siteUrl: `https://new.cereme.dev`, // Your blog site url
   social: {
     twitter: `CeremeP`, // Your Twitter account
