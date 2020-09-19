@@ -83,6 +83,7 @@
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write 'src/**/*.js' 'src/**/*.md'",
     "develop": "gatsby develop",
+    "build": "gatsby build",
     "start": "npm run develop",
     "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:cereme/cereme.github.io.git'",
     "lh": "lighthousebot",
