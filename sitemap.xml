@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url> <loc>https://new.cereme.dev/devops/prometheus-grafana-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/backend/chalice-vs-serverless/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/frontend/react-hooks-useeffect-useref-feat-closure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/meetups/google-io-extended-2019-webtech/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/appdev/react-native-iphone-device-run/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/appdev/aws-device-farm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/backend/aws-s3-store-json-lambda-api-gateway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/frontend/serve-vuejs-on-flask-setting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/frontend/vue-cli-3-ie-polyfill/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/backend/aws-lambda-cloudwatch-event-cronjob/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/frontend/javascript-replace-is-not-replaceall/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/backend/be-aware-of-timezone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/backend/multer-s3를-활용한-aws-s3-파일업로드/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/apps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://new.cereme.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/devops/prometheus-grafana-1/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/backend/chalice-vs-serverless/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/frontend/react-hooks-useeffect-useref-feat-closure/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/meetups/google-io-extended-2019-webtech/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/appdev/react-native-iphone-device-run/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/appdev/aws-device-farm/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/backend/aws-s3-store-json-lambda-api-gateway/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/frontend/serve-vuejs-on-flask-setting/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/frontend/vue-cli-3-ie-polyfill/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/backend/aws-lambda-cloudwatch-event-cronjob/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/frontend/javascript-replace-is-not-replaceall/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/backend/be-aware-of-timezone/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/backend/multer-s3를-활용한-aws-s3-파일업로드/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/apps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://cereme.dev/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
