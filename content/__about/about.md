@@ -16,6 +16,12 @@ type: about
 
 현재 (주)헤렌에 재직중이며, 인스타팀에서 Python backend & DevOps 및 팀리드 포지션으로 일하고있습니다.
 
+|             |                                 |
+| :---------: | ------------------------------- |
+| **GitHub**  | <https://github.com/cereme>     |
+|  **Blog**   | <https://cereme.dev>            |
+| **Contact** | <ceremebsy@gmail.com>           |
+
 # Core skills
 **Bold: Fluent**, *Italic: just experienced*, Normal: confident more than *italic*, less then **Bold** :)
 * Backend : **Falcon**, **Flask**, SQLAlchemy, Celery, Sanic, Django(DRF), Express.js, *gin-gonic*
