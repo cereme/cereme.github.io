@@ -14,6 +14,7 @@ export const Layout = ({ location, title, children }) => {
   return (
     <React.Fragment>
       <Top title={title} location={location} rootPath={rootPath} />
+      <div style={{ display: "none" }}><ThemeSwitch /></div>
       <div
         style={{
           marginLeft: `auto`,
