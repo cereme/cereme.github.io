@@ -27,4 +27,31 @@
     font-family: 'Catamaran';
     font-weight: 200;
   }
+  .top-hamburger {
+    display: none;
+  }
+}
+.hamburger-menu {
+  display: none;
+}
+
+@include mobile {
+  .top {
+    .sub-link {
+      display: none;
+    }
+    .github {
+      display: none;
+    }
+    .top-hamburger {
+      display: block;
+      float: right;
+    }
+  }
+  .hamburger-menu {
+    display: block;
+    position: relative;
+    width: 100%;
+    height: auto;
+  }
 }

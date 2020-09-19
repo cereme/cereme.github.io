@@ -1,0 +1,13 @@
+@import '../../styles/variables.scss';
+
+.hamburger-button {
+    display: none;
+}
+
+@include mobile {
+    .hamburger-button {
+        display: block;
+        float: right;
+        padding: 14px;
+    }
+}
