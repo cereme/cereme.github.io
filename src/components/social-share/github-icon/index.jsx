@@ -3,6 +3,7 @@ import React from 'react'
 import './index.scss'
 
 export const GitHubIcon = () => {
+  // TODO: replace url
   return (
     <a
       href="https://github.com/JaeYeopHan/felog"
