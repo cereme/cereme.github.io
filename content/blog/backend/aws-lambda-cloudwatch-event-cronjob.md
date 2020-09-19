@@ -1,6 +1,6 @@
 ---
 title: AWS Lambda와 Cloudwatch의 Event를 통해 주기적으로 Lambda 함수 실행하기
-date: 2020-09-19 16:09:18
+date: 2019-03-13 16:09:18
 category: backend
 thumbnail: { thumbnailSrc }
 draft: false

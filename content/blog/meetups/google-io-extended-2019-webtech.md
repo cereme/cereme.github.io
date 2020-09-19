@@ -1,6 +1,6 @@
 ---
 title: Google I/O Extended 2019 Webtech 후기
-date: 2020-09-19 16:09:68
+date: 2019-07-13 16:09:68
 category: meetups
 thumbnail: { thumbnailSrc }
 draft: false

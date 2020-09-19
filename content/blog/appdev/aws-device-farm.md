@@ -1,6 +1,6 @@
 ---
 title: 원격으로 테스트디바이스 사용하기 - AWS Device Farm
-date: 2190-07-09 16:09:55
+date: 2019-07-09 16:09:55
 category: appdev
 thumbnail: { thumbnailSrc }
 draft: false

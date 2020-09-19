@@ -1,6 +1,6 @@
 ---
 title: React native iOS 실제 iPhone 디바이스에서 실행하기
-date: 2020-07-11 16:09:12
+date: 2019-07-11 16:09:12
 category: appdev
 thumbnail: { thumbnailSrc }
 draft: false

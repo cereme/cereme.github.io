@@ -1,6 +1,6 @@
 ---
 title: 시간을 다룰때는 Timezone을 생각하자
-date: 2020-03-06 16:09:11
+date: 2019-03-06 16:09:11
 category: backend
 thumbnail: { thumbnailSrc }
 draft: false
