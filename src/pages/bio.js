@@ -19,9 +19,7 @@ export default ({ data }) => {
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(36),
-          padding: `${rhythm(0)} ${rhythm(3 / 4)} ${rhythm(1.5)} ${rhythm(
-            3 / 4
-          )}`,
+          padding: `${0} ${rhythm(0.5)} ${rhythm(0.5)} ${rhythm(0.5)}`,
         }}
       >
         <div dangerouslySetInnerHTML={{ __html: bio.html }} />
