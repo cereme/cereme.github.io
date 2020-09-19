@@ -13,7 +13,19 @@ module.exports = {
     linkedin: ``, // Your LinkedIn account
   },
   icon: `content/assets/favicon.png`, // Add your favicon
-  keywords: [`blog`],
+  keywords: [
+    `blog`,
+    `development`,
+    `python`,
+    `frontend`,
+    `devops`,
+    `AWS`,
+    `backend`,
+    `prometheus`,
+    `react`,
+    `javascript`,
+    `developer`,
+  ],
   comment: {
     disqusShortName: '', // Your disqus-short-name. check disqus.com.
     utterances: 'cereme/cereme.github.io', // Your repository for archive comment
