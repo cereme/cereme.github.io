@@ -13,7 +13,7 @@ export const Header = ({ title, location, rootPath, shortDescription }) => {
             {title}
           </Link>
         </h1>
-        <Link to={`/bio`} className="shortDescription-header link">
+        <Link to={`/about`} className="shortDescription-header link">
           {shortDescription}
         </Link>
       </div>

@@ -7,9 +7,9 @@ import * as Lang from '../constants'
 
 export default ({ data }) => {
   const { siteMetadata } = data.site
-  const resumes = data.allMarkdownRemark.edges
-  const resume = resumes
-    .filter(({ node }) => node.frontmatter.type === "resume")
+  const abouts = data.allMarkdownRemark.edges
+  const about = abouts
+    .filter(({ node }) => node.frontmatter.type === "about")
     .map(({ node }) => node)[0]
 
   return (
@@ -22,7 +22,7 @@ export default ({ data }) => {
           padding: `${0} ${rhythm(0.5)} ${rhythm(0.5)} ${rhythm(0.5)}`,
         }}
       >
-        <div dangerouslySetInnerHTML={{ __html: resume.html }} />
+        <div dangerouslySetInnerHTML={{ __html: about.html }} />
       </div>
     </Layout>
 

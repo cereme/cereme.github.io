@@ -12,7 +12,7 @@ export const Layout = ({ location, title, shortDescription, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRoot = location.pathname === rootPath
   // TODO: refactor
-  const isAnotherPath = (location.pathname === "/bio") || (location.pathname === "/resume") || (location.pathname === "/apps");
+  const isAnotherPath = (location.pathname === "/about") || (location.pathname === "/apps");
 
   return (
     <React.Fragment>
