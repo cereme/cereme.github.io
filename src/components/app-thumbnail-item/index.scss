@@ -1,0 +1,40 @@
+@import '../../styles/variables.scss';
+
+.app-item {
+  display: block;
+  margin-bottom: 12px;
+  padding: 12px;
+  transition: text-shadow 0.3s, opacity 0.4s;
+  opacity: 0;
+
+  h3 {
+      margin-top: 16px;
+  }
+
+  p {
+    font-size: 90%;
+    line-height: 1.4;
+  }
+}
+
+.app-item.observed {
+  opacity: 1;
+}
+
+@include mobile {
+    .app-item {
+        width: 100%
+    }
+}
+
+@include tablet {
+    .app-item {
+        width: 50%
+    }
+}
+
+@include desktop {
+    .app-item {
+        width: 33.33333%
+    }
+}

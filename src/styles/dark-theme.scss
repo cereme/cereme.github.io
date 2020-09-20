@@ -56,6 +56,19 @@ body.dark {
     }
   }
 
+  .app-item {
+    h3 {
+      color: $dark-light-font-color;
+    }
+    p {
+      color: $dark-middle-font-color;
+    }
+    &:hover {
+      text-shadow: $dark-hover-text-shadow;
+    }
+    box-shadow: 0 10px 15px -3px rgba(255,255,255,.1), 0 4px 6px -2px rgba(255,255,255,.05);
+  }
+
   .footer {
     color: $dark-middle-font-color;
     a {

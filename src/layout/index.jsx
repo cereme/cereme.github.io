@@ -11,7 +11,7 @@ export const Layout = ({ location, title, shortDescription, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRoot = location.pathname === rootPath
   // TODO: refactor
-  const isAnotherPath = (location.pathname === "/about") || (location.pathname === "/apps");
+  const isAnotherPath = (location.pathname === "/about");
 
   return (
     <React.Fragment>
@@ -24,7 +24,9 @@ export const Layout = ({ location, title, shortDescription, children }) => {
           padding: !isAnotherPath ? `${rhythm(1)} ${rhythm(3 / 4)}` : `${rhythm(0)} ${rhythm(1 / 4)}`,
         }}
       >
-        <Header title={title} location={location} rootPath={rootPath} shortDescription={shortDescription} />
+        {isRoot &&
+          <Header title={title} location={location} rootPath={rootPath} shortDescription={shortDescription} />
+        }
         {children}
         <Footer />
       </div>
