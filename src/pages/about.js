@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import { Layout } from '../layout'
+import { Header } from '../components/header'
 
 import { rhythm } from '../utils/typography'
 import '../styles/about.scss'
@@ -9,12 +10,14 @@ import * as Lang from '../constants'
 export default ({ data, location }) => {
   const { siteMetadata } = data.site
   const abouts = data.allMarkdownRemark.edges
+  const rootPath = `${__PATH_PREFIX__}/`
   const about = abouts
     .filter(({ node }) => node.frontmatter.type === "about")
     .map(({ node }) => node)[0]
 
   return (
     <Layout location={location} title={siteMetadata.title}>
+      <Header title={"About me"} location={location} rootPath={rootPath} />
       <div
         className="about"
         style={{

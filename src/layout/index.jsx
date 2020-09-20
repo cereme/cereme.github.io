@@ -10,8 +10,6 @@ import './index.scss'
 export const Layout = ({ location, title, shortDescription, children }) => {
   const rootPath = `${__PATH_PREFIX__}/`
   const isRoot = location.pathname === rootPath
-  // TODO: refactor
-  const isAnotherPath = (location.pathname === "/about");
 
   return (
     <React.Fragment>
@@ -21,7 +19,7 @@ export const Layout = ({ location, title, shortDescription, children }) => {
           marginLeft: `auto`,
           marginRight: `auto`,
           maxWidth: rhythm(36),
-          padding: !isAnotherPath ? `${rhythm(1)} ${rhythm(3 / 4)}` : `${rhythm(0)} ${rhythm(1 / 4)}`,
+          padding: `${rhythm(1)} ${rhythm(3 / 4)}`,
         }}
       >
         {isRoot &&
