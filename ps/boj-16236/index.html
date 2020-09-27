@@ -81,86 +81,86 @@
 <p>곰곰히 생각하다가 BFS로 구하면 될 것 같았습니다. BFS는 큐에 한 depth의 원소들이 뭉쳐서 있기 때문에 가까이 있는 물고기들을 찾아나가기에 적합한 알고리즘 같습니다.</p>
 <p>맨 처음 생각했을 때는 마지막 조건을 구현할 때 “대충 순회할 때 위, 왼쪽, 오른쪽, 아래 순서로 순회하면 되지 않을까?” 라고 생각했었는데 다행히도 예제 데이터에 그러면 틀리는 반례가 있었습니다. (이게 그 섣부른 그리디 판단? 인가 싶었어요) BFS로 물고기를 찾을 때 처리를 해줬습니다.</p>
 <h2 id="코드" style="position:relative;"><a href="#%EC%BD%94%EB%93%9C" aria-label="코드 permalink" class="anchor before"><svg aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>코드</h2>
-<div class="gatsby-highlight" data-language="python3="><pre class="language-python3="><code class="language-python3=">from collections import deque
-from typing import Tuple
+<div class="gatsby-highlight" data-language="python"><pre class="language-python"><code class="language-python"><span class="token keyword">from</span> collections <span class="token keyword">import</span> deque
+<span class="token keyword">from</span> typing <span class="token keyword">import</span> Tuple
 
-class EdibleFishDoesNotExist(Exception):
-    pass
+<span class="token keyword">class</span> <span class="token class-name">EdibleFishDoesNotExist</span><span class="token punctuation">(</span>Exception<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">pass</span>
 
-Coord = Tuple[int, int]
+Coord <span class="token operator">=</span> Tuple<span class="token punctuation">[</span><span class="token builtin">int</span><span class="token punctuation">,</span> <span class="token builtin">int</span><span class="token punctuation">]</span>
 
-directions = ((-1, 0), (0, -1), (0, 1), (1, 0))
+directions <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token number">0</span><span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">,</span> <span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
 
-# 입력
-N = int(input())
-board = [list(map(int, input().split())) for _ in range(N)]
-shark_row, shark_col = None, None
-shark_size = 2
-eat_count = 0
-timestamp = 0
-for row in range(N):
-    for col in range(N):
-        if board[row][col] == 9:
-            shark_row = row
-            shark_col = col
-            break
-    if shark_row and shark_col:
-        break
+<span class="token comment"># 입력</span>
+N <span class="token operator">=</span> <span class="token builtin">int</span><span class="token punctuation">(</span><span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+board <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token builtin">list</span><span class="token punctuation">(</span><span class="token builtin">map</span><span class="token punctuation">(</span><span class="token builtin">int</span><span class="token punctuation">,</span> <span class="token builtin">input</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">.</span>split<span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token keyword">for</span> _ <span class="token keyword">in</span> <span class="token builtin">range</span><span class="token punctuation">(</span>N<span class="token punctuation">)</span><span class="token punctuation">]</span>
+shark_row<span class="token punctuation">,</span> shark_col <span class="token operator">=</span> <span class="token boolean">None</span><span class="token punctuation">,</span> <span class="token boolean">None</span>
+shark_size <span class="token operator">=</span> <span class="token number">2</span>
+eat_count <span class="token operator">=</span> <span class="token number">0</span>
+timestamp <span class="token operator">=</span> <span class="token number">0</span>
+<span class="token keyword">for</span> row <span class="token keyword">in</span> <span class="token builtin">range</span><span class="token punctuation">(</span>N<span class="token punctuation">)</span><span class="token punctuation">:</span>
+    <span class="token keyword">for</span> col <span class="token keyword">in</span> <span class="token builtin">range</span><span class="token punctuation">(</span>N<span class="token punctuation">)</span><span class="token punctuation">:</span>
+        <span class="token keyword">if</span> board<span class="token punctuation">[</span>row<span class="token punctuation">]</span><span class="token punctuation">[</span>col<span class="token punctuation">]</span> <span class="token operator">==</span> <span class="token number">9</span><span class="token punctuation">:</span>
+            shark_row <span class="token operator">=</span> row
+            shark_col <span class="token operator">=</span> col
+            <span class="token keyword">break</span>
+    <span class="token keyword">if</span> shark_row <span class="token keyword">and</span> shark_col<span class="token punctuation">:</span>
+        <span class="token keyword">break</span>
 
-# 가장 가까운 먹을 수 있는(+ 문제의 우선순위 조건에 만족하는) 물고기의 칸과 그 물고기와 아기상어의 거리를 리턴합니다.
-def get_nearest_edible_fish(shark_row, shark_col) -&gt; Tuple[Coord, int]:
-    &quot;&quot;&quot;
+<span class="token comment"># 가장 가까운 먹을 수 있는(+ 문제의 우선순위 조건에 만족하는) 물고기의 칸과 그 물고기와 아기상어의 거리를 리턴합니다.</span>
+<span class="token keyword">def</span> <span class="token function">get_nearest_edible_fish</span><span class="token punctuation">(</span>shark_row<span class="token punctuation">,</span> shark_col<span class="token punctuation">)</span> <span class="token operator">-</span><span class="token operator">></span> Tuple<span class="token punctuation">[</span>Coord<span class="token punctuation">,</span> <span class="token builtin">int</span><span class="token punctuation">]</span><span class="token punctuation">:</span>
+    <span class="token triple-quoted-string string">"""
     :return (fish_row, fish_col), distance
-    &quot;&quot;&quot;
-    queue = deque()
-    visited = [[False]*N for _ in range(N)]
+    """</span>
+    queue <span class="token operator">=</span> deque<span class="token punctuation">(</span><span class="token punctuation">)</span>
+    visited <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">[</span><span class="token boolean">False</span><span class="token punctuation">]</span><span class="token operator">*</span>N <span class="token keyword">for</span> _ <span class="token keyword">in</span> <span class="token builtin">range</span><span class="token punctuation">(</span>N<span class="token punctuation">)</span><span class="token punctuation">]</span>
     
-    #초기화
-    queue.append((shark_row, shark_col, 0))
-    board[shark_row][shark_col] = 0
-    visited[shark_row][shark_col] = True
+    <span class="token comment">#초기화</span>
+    queue<span class="token punctuation">.</span>append<span class="token punctuation">(</span><span class="token punctuation">(</span>shark_row<span class="token punctuation">,</span> shark_col<span class="token punctuation">,</span> <span class="token number">0</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
+    board<span class="token punctuation">[</span>shark_row<span class="token punctuation">]</span><span class="token punctuation">[</span>shark_col<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token number">0</span>
+    visited<span class="token punctuation">[</span>shark_row<span class="token punctuation">]</span><span class="token punctuation">[</span>shark_col<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">True</span>
 
-    candidates = []
-    candidate_distance = None
+    candidates <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token punctuation">]</span>
+    candidate_distance <span class="token operator">=</span> <span class="token boolean">None</span>
 
-    while queue:
-        row, col, distance = queue.popleft()
+    <span class="token keyword">while</span> queue<span class="token punctuation">:</span>
+        row<span class="token punctuation">,</span> col<span class="token punctuation">,</span> distance <span class="token operator">=</span> queue<span class="token punctuation">.</span>popleft<span class="token punctuation">(</span><span class="token punctuation">)</span>
 
-        if candidate_distance and distance != candidate_distance:
-            return sorted(candidates)[0], candidate_distance
+        <span class="token keyword">if</span> candidate_distance <span class="token keyword">and</span> distance <span class="token operator">!=</span> candidate_distance<span class="token punctuation">:</span>
+            <span class="token keyword">return</span> <span class="token builtin">sorted</span><span class="token punctuation">(</span>candidates<span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">,</span> candidate_distance
 
-        if 0 &lt; board[row][col] &lt; shark_size:
-            if not candidate_distance:
-                candidate_distance = distance
-            candidates.append((row, col))
+        <span class="token keyword">if</span> <span class="token number">0</span> <span class="token operator">&lt;</span> board<span class="token punctuation">[</span>row<span class="token punctuation">]</span><span class="token punctuation">[</span>col<span class="token punctuation">]</span> <span class="token operator">&lt;</span> shark_size<span class="token punctuation">:</span>
+            <span class="token keyword">if</span> <span class="token keyword">not</span> candidate_distance<span class="token punctuation">:</span>
+                candidate_distance <span class="token operator">=</span> distance
+            candidates<span class="token punctuation">.</span>append<span class="token punctuation">(</span><span class="token punctuation">(</span>row<span class="token punctuation">,</span> col<span class="token punctuation">)</span><span class="token punctuation">)</span>
         
-        for direction in directions:
-            new_row = row + direction[0]
-            new_col = col + direction[1]
-            if new_row &gt;= N or new_col &gt;= N or new_row &lt; 0 or new_col &lt; 0 : continue
-            if visited[new_row][new_col]: continue
-            if board[new_row][new_col] &gt; shark_size: continue 
-            visited[new_row][new_col] = True
-            queue.append((new_row, new_col, distance + 1))
+        <span class="token keyword">for</span> direction <span class="token keyword">in</span> directions<span class="token punctuation">:</span>
+            new_row <span class="token operator">=</span> row <span class="token operator">+</span> direction<span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span>
+            new_col <span class="token operator">=</span> col <span class="token operator">+</span> direction<span class="token punctuation">[</span><span class="token number">1</span><span class="token punctuation">]</span>
+            <span class="token keyword">if</span> new_row <span class="token operator">>=</span> N <span class="token keyword">or</span> new_col <span class="token operator">>=</span> N <span class="token keyword">or</span> new_row <span class="token operator">&lt;</span> <span class="token number">0</span> <span class="token keyword">or</span> new_col <span class="token operator">&lt;</span> <span class="token number">0</span> <span class="token punctuation">:</span> <span class="token keyword">continue</span>
+            <span class="token keyword">if</span> visited<span class="token punctuation">[</span>new_row<span class="token punctuation">]</span><span class="token punctuation">[</span>new_col<span class="token punctuation">]</span><span class="token punctuation">:</span> <span class="token keyword">continue</span>
+            <span class="token keyword">if</span> board<span class="token punctuation">[</span>new_row<span class="token punctuation">]</span><span class="token punctuation">[</span>new_col<span class="token punctuation">]</span> <span class="token operator">></span> shark_size<span class="token punctuation">:</span> <span class="token keyword">continue</span> 
+            visited<span class="token punctuation">[</span>new_row<span class="token punctuation">]</span><span class="token punctuation">[</span>new_col<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">True</span>
+            queue<span class="token punctuation">.</span>append<span class="token punctuation">(</span><span class="token punctuation">(</span>new_row<span class="token punctuation">,</span> new_col<span class="token punctuation">,</span> distance <span class="token operator">+</span> <span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
     
-    if len(candidates) &gt; 0:
-        return sorted(candidates)[0], candidate_distance
+    <span class="token keyword">if</span> <span class="token builtin">len</span><span class="token punctuation">(</span>candidates<span class="token punctuation">)</span> <span class="token operator">></span> <span class="token number">0</span><span class="token punctuation">:</span>
+        <span class="token keyword">return</span> <span class="token builtin">sorted</span><span class="token punctuation">(</span>candidates<span class="token punctuation">)</span><span class="token punctuation">[</span><span class="token number">0</span><span class="token punctuation">]</span><span class="token punctuation">,</span> candidate_distance
     
-    raise EdibleFishDoesNotExist
+    <span class="token keyword">raise</span> EdibleFishDoesNotExist
 
-while True:
-    try:
-        fish_to_eat, distance = get_nearest_edible_fish(shark_row, shark_col)
-        shark_row, shark_col = fish_to_eat
-        board[shark_row][shark_col] = 0
-        timestamp += distance
-        eat_count += 1
-        if eat_count == shark_size:
-            eat_count = 0
-            shark_size += 1
-    except EdibleFishDoesNotExist:
-        print(timestamp)
-        break</code></pre></div>
+<span class="token keyword">while</span> <span class="token boolean">True</span><span class="token punctuation">:</span>
+    <span class="token keyword">try</span><span class="token punctuation">:</span>
+        fish_to_eat<span class="token punctuation">,</span> distance <span class="token operator">=</span> get_nearest_edible_fish<span class="token punctuation">(</span>shark_row<span class="token punctuation">,</span> shark_col<span class="token punctuation">)</span>
+        shark_row<span class="token punctuation">,</span> shark_col <span class="token operator">=</span> fish_to_eat
+        board<span class="token punctuation">[</span>shark_row<span class="token punctuation">]</span><span class="token punctuation">[</span>shark_col<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token number">0</span>
+        timestamp <span class="token operator">+=</span> distance
+        eat_count <span class="token operator">+=</span> <span class="token number">1</span>
+        <span class="token keyword">if</span> eat_count <span class="token operator">==</span> shark_size<span class="token punctuation">:</span>
+            eat_count <span class="token operator">=</span> <span class="token number">0</span>
+            shark_size <span class="token operator">+=</span> <span class="token number">1</span>
+    <span class="token keyword">except</span> EdibleFishDoesNotExist<span class="token punctuation">:</span>
+        <span class="token keyword">print</span><span class="token punctuation">(</span>timestamp<span class="token punctuation">)</span>
+        <span class="token keyword">break</span></code></pre></div>
 <p>간단하게 <code class="language-text">get_nearest_edible_fish</code>에서 BFS 템플릿 코드를 써서 구현하고, <code class="language-text">EdibleFishDoesNotExist</code>가 나올 때 까지 루프를 도는 코드입니다.</p>
 <p>그리고 <code class="language-text">get_nearest_edible_fish</code>에서 같은 거리에 있는 물고기들 중 문제의 조건을 만족하는 물고기 한마리를 구하기 위한 아이디어는 다음과 같습니다.</p>
 <ul>
