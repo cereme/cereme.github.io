@@ -1,4 +1,110 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cereme.dev]]></title><description><![CDATA[cereme(Sang yun Pae)'s Tech blog]]></description><link>https://cereme.dev</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 20 Sep 2020 05:53:22 GMT</lastBuildDate><item><title><![CDATA[Agento crawler]]></title><link>https://cereme.dev/agento-crawler/</link><guid isPermaLink="false">https://cereme.dev/agento-crawler/</guid><pubDate>Sun, 20 Sep 2020 09:40:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Agento]]></title><link>https://cereme.dev/agento/</link><guid isPermaLink="false">https://cereme.dev/agento/</guid><pubDate>Sun, 20 Sep 2020 09:40:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[dccon downloader]]></title><link>https://cereme.dev/dccon-downloader/</link><guid isPermaLink="false">https://cereme.dev/dccon-downloader/</guid><pubDate>Sun, 20 Sep 2020 09:40:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[about me]]></title><description><![CDATA[배상윤(cereme, Sang yun Pae) 제품을 만들어내고 문제를 해결하는 것이 너무 즐거운 소프트웨어 개발자입니다. 제품 팀을 위해 어떤 형태로든 기여하는 것을 즐기는 팀플레이어입니다. 스타트업 Co-founder…]]></description><link>https://cereme.dev/about/</link><guid isPermaLink="false">https://cereme.dev/about/</guid><pubDate>Sat, 19 Sep 2020 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;배상윤cereme-sang-yun-pae&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%EC%83%81%EC%9C%A4cereme-sang-yun-pae&quot; aria-label=&quot;배상윤cereme sang yun pae permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배상윤(cereme, Sang yun Pae)&lt;/h1&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cereme.dev]]></title><description><![CDATA[cereme(Sang yun Pae)'s Tech blog]]></description><link>https://cereme.dev</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 27 Sep 2020 09:09:46 GMT</lastBuildDate><item><title><![CDATA[백준 16236 아기상어 with Python3]]></title><description><![CDATA[https://www.acmicpc.net/problem/16236 BOJ 1623…]]></description><link>https://cereme.dev/ps/boj-16236/</link><guid isPermaLink="false">https://cereme.dev/ps/boj-16236/</guid><pubDate>Sun, 27 Sep 2020 17:10:34 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.acmicpc.net/problem/16236&quot;&gt;https://www.acmicpc.net/problem/16236&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;BOJ 16236 아기상어 문제를 풀어봤습니다.&lt;/p&gt;
+&lt;h2 id=&quot;문제파악&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%AC%B8%EC%A0%9C%ED%8C%8C%EC%95%85&quot; aria-label=&quot;문제파악 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;문제파악&lt;/h2&gt;
+&lt;p&gt;구현문제들은 역시 문제에서 주어진 조건들을 파악해서 이해하는게 중요하다. 다행히도 문제에서 시뮬레이션 해야하는 행동에 대해서 정리해서 제시해줬고, 어떻게 구현할 지만 생각해보면 될 것 같다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;가장 처음에 아기 상어의 크기는 2이고, 아기 상어는 1초에 상하좌우로 인접한 한 칸씩 이동한다. -&gt; &lt;strong&gt;ㅇㅋ&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;아기 상어는 자신의 크기보다 큰 물고기가 있는 칸은 지나갈 수 없고, 나머지 칸은 모두 지나갈 수 있다. 아기 상어는 자신의 크기보다 작은 물고기만 먹을 수 있다. 따라서, 크기가 같은 물고기는 먹을 수 없지만, 그 물고기가 있는 칸은 지나갈 수 있다. -&gt; &lt;strong&gt;&lt;em&gt;지나갈 수 있는 칸&lt;/em&gt;과 &lt;em&gt;먹을 수 있는 칸&lt;/em&gt;을 계산할 때 유의해야겠다.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;더 이상 먹을 수 있는 물고기가 공간에 없다면 아기 상어는 엄마 상어에게 도움을 요청한다. -&gt; &lt;strong&gt;모든 물고기 탐색을 탐색해야하고&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;먹을 수 있는 물고기가 1마리라면, 그 물고기를 먹으러 간다. -&gt; &lt;strong&gt;밑에 규칙에서 자동으로 파생되어서 별 쓸모 없을 듯&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;먹을 수 있는 물고기가 1마리보다 많다면, 거리가 가장 가까운 물고기를 먹으러 간다. 거리는 아기 상어가 있는 칸에서 물고기가 있는 칸으로 이동할 때, 지나야하는 칸의 개수의 최솟값이다. -&gt; &lt;strong&gt;물고기들의 최단거리를 계속 계산해나가야할 것 같다&lt;/strong&gt;
+거리가 가까운 물고기가 많다면, 가장 위에 있는 물고기, 그러한 물고기가 여러마리라면, 가장 왼쪽에 있는 물고기를 먹는다. -&gt; &lt;strong&gt;최단거리를 구할 때 이 규칙이 자동으로 적용되게 만들거나, 최단거리를 구하고 나서 이 규칙을 따로 적용해야겠다&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;풀이&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%92%80%EC%9D%B4&quot; aria-label=&quot;풀이 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;풀이&lt;/h2&gt;
+&lt;p&gt;일단 현재 아기상어와 물고기의 거리를 직선계산해서 최단거리를 구하고 소요시간을 구할 수는 없습니다. “지나갈 수 있는 칸”에 대한 제약이 있기 때문이죠.&lt;/p&gt;
+&lt;p&gt;곰곰히 생각하다가 BFS로 구하면 될 것 같았습니다. BFS는 큐에 한 depth의 원소들이 뭉쳐서 있기 때문에 가까이 있는 물고기들을 찾아나가기에 적합한 알고리즘 같습니다.&lt;/p&gt;
+&lt;p&gt;맨 처음 생각했을 때는 마지막 조건을 구현할 때 “대충 순회할 때 위, 왼쪽, 오른쪽, 아래 순서로 순회하면 되지 않을까?” 라고 생각했었는데 다행히도 예제 데이터에 그러면 틀리는 반례가 있었습니다. (이게 그 섣부른 그리디 판단? 인가 싶었어요) BFS로 물고기를 찾을 때 처리를 해줬습니다.&lt;/p&gt;
+&lt;h2 id=&quot;코드&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%BD%94%EB%93%9C&quot; aria-label=&quot;코드 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;코드&lt;/h2&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;python3=&quot;&gt;&lt;pre class=&quot;language-python3=&quot;&gt;&lt;code class=&quot;language-python3=&quot;&gt;from collections import deque
+from typing import Tuple
+
+class EdibleFishDoesNotExist(Exception):
+    pass
+
+Coord = Tuple[int, int]
+
+directions = ((-1, 0), (0, -1), (0, 1), (1, 0))
+
+# 입력
+N = int(input())
+board = [list(map(int, input().split())) for _ in range(N)]
+shark_row, shark_col = None, None
+shark_size = 2
+eat_count = 0
+timestamp = 0
+for row in range(N):
+    for col in range(N):
+        if board[row][col] == 9:
+            shark_row = row
+            shark_col = col
+            break
+    if shark_row and shark_col:
+        break
+
+# 가장 가까운 먹을 수 있는(+ 문제의 우선순위 조건에 만족하는) 물고기의 칸과 그 물고기와 아기상어의 거리를 리턴합니다.
+def get_nearest_edible_fish(shark_row, shark_col) -&amp;gt; Tuple[Coord, int]:
+    &amp;quot;&amp;quot;&amp;quot;
+    :return (fish_row, fish_col), distance
+    &amp;quot;&amp;quot;&amp;quot;
+    queue = deque()
+    visited = [[False]*N for _ in range(N)]
+    
+    #초기화
+    queue.append((shark_row, shark_col, 0))
+    board[shark_row][shark_col] = 0
+    visited[shark_row][shark_col] = True
+
+    candidates = []
+    candidate_distance = None
+
+    while queue:
+        row, col, distance = queue.popleft()
+
+        if candidate_distance and distance != candidate_distance:
+            return sorted(candidates)[0], candidate_distance
+
+        if 0 &amp;lt; board[row][col] &amp;lt; shark_size:
+            if not candidate_distance:
+                candidate_distance = distance
+            candidates.append((row, col))
+        
+        for direction in directions:
+            new_row = row + direction[0]
+            new_col = col + direction[1]
+            if new_row &amp;gt;= N or new_col &amp;gt;= N or new_row &amp;lt; 0 or new_col &amp;lt; 0 : continue
+            if visited[new_row][new_col]: continue
+            if board[new_row][new_col] &amp;gt; shark_size: continue 
+            visited[new_row][new_col] = True
+            queue.append((new_row, new_col, distance + 1))
+    
+    if len(candidates) &amp;gt; 0:
+        return sorted(candidates)[0], candidate_distance
+    
+    raise EdibleFishDoesNotExist
+
+while True:
+    try:
+        fish_to_eat, distance = get_nearest_edible_fish(shark_row, shark_col)
+        shark_row, shark_col = fish_to_eat
+        board[shark_row][shark_col] = 0
+        timestamp += distance
+        eat_count += 1
+        if eat_count == shark_size:
+            eat_count = 0
+            shark_size += 1
+    except EdibleFishDoesNotExist:
+        print(timestamp)
+        break&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;간단하게 &lt;code class=&quot;language-text&quot;&gt;get_nearest_edible_fish&lt;/code&gt;에서 BFS 템플릿 코드를 써서 구현하고, &lt;code class=&quot;language-text&quot;&gt;EdibleFishDoesNotExist&lt;/code&gt;가 나올 때 까지 루프를 도는 코드입니다.&lt;/p&gt;
+&lt;p&gt;그리고 &lt;code class=&quot;language-text&quot;&gt;get_nearest_edible_fish&lt;/code&gt;에서 같은 거리에 있는 물고기들 중 문제의 조건을 만족하는 물고기 한마리를 구하기 위한 아이디어는 다음과 같습니다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;BFS를 하면 (원소가 각 물고기의 최단거리라고 합시다) (1, 1, 1, 2, 2, 2, 3, 3, 3) 이런식으로 뭉쳐서 나온다. &lt;/li&gt;
+&lt;li&gt;처음 본 물고기가 1이면 1끼리 비교해서 가장 왼쪽 위에 있는 물고기를 구해야한다.&lt;/li&gt;
+&lt;li&gt;그래서 “맨 처음 발견한 물고기의 거리”(&lt;code class=&quot;language-text&quot;&gt;candidate_distance&lt;/code&gt;)를 저장해놓고 일단 발견한 물고기들을 &lt;code class=&quot;language-text&quot;&gt;candidates&lt;/code&gt;에다가 저장해놓는다.&lt;/li&gt;
+&lt;li&gt;물고기를 발견하다가 그 물고기의 거리와 &lt;code class=&quot;language-text&quot;&gt;candidate_distance&lt;/code&gt;가 다르면 &lt;code class=&quot;language-text&quot;&gt;candidate_distance&lt;/code&gt;인 물고기들을 모두 발견한 것이다.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;가장 왼쪽 위&lt;/em&gt;라는 조건은 tuple을 기본 순서로 정렬했을 때 첫 번째 원소라는 것과 동치이다.&lt;/li&gt;
+&lt;li&gt;만약 (모두 순회했을 때 history)BFS 큐가 (1, 1, 1, 1, …) 이런식으로 구성되어있으면 &lt;code class=&quot;language-text&quot;&gt;candidate_distance&lt;/code&gt;가 달라지는 시점이 안올테니까 BFS 순회가 종료된 시점에서도 한 번 더 &lt;em&gt;가장 왼쪽 위&lt;/em&gt; 조건을 검사해서 리턴.&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Agento crawler]]></title><link>https://cereme.dev/agento-crawler/</link><guid isPermaLink="false">https://cereme.dev/agento-crawler/</guid><pubDate>Sun, 20 Sep 2020 09:40:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Agento]]></title><link>https://cereme.dev/agento/</link><guid isPermaLink="false">https://cereme.dev/agento/</guid><pubDate>Sun, 20 Sep 2020 09:40:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[dccon downloader]]></title><link>https://cereme.dev/dccon-downloader/</link><guid isPermaLink="false">https://cereme.dev/dccon-downloader/</guid><pubDate>Sun, 20 Sep 2020 09:40:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[about me]]></title><description><![CDATA[배상윤(cereme, Sang yun Pae) 제품을 만들어내고 문제를 해결하는 것이 너무 즐거운 소프트웨어 개발자입니다. 제품 팀을 위해 어떤 형태로든 기여하는 것을 즐기는 팀플레이어입니다. 스타트업 Co-founder…]]></description><link>https://cereme.dev/about/</link><guid isPermaLink="false">https://cereme.dev/about/</guid><pubDate>Sat, 19 Sep 2020 16:21:13 GMT</pubDate><content:encoded>&lt;h1 id=&quot;배상윤cereme-sang-yun-pae&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%EC%83%81%EC%9C%A4cereme-sang-yun-pae&quot; aria-label=&quot;배상윤cereme sang yun pae permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배상윤(cereme, Sang yun Pae)&lt;/h1&gt;
 &lt;div&gt;
   &lt;img src=&quot;https://progress-bar.dev/0/?title=%EC%82%B0%EC%97%85%EA%B8%B0%EB%8A%A5%EC%9A%94%EC%9B%90%20%20%20%20&amp;amp;scale=1000&amp;amp;suffix=%EB%AF%B8%ED%8E%B8%EC%9E%85&quot;&gt;
   &lt;img src=&quot;https://badgen.net/badge/%EC%97%AD%EC%A2%85/%ED%98%84%EC%97%AD/green/&quot;&gt;
