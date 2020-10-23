@@ -1,16 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cereme.dev]]></title><description><![CDATA[cereme(Sang yun Pae)'s Tech blog]]></description><link>https://cereme.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 23 Oct 2020 15:33:23 GMT</lastBuildDate><item><title><![CDATA[strapi 간단 사용기 (in 회사 홈페이지)]]></title><description><![CDATA[…]]></description><link>https://cereme.dev/frontend/strapi-on-company-homepage/</link><guid isPermaLink="false">https://cereme.dev/frontend/strapi-on-company-homepage/</guid><pubDate>Sat, 24 Oct 2020 00:10:39 GMT</pubDate><content:encoded>&lt;h2 id=&quot;배경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%EA%B2%BD&quot; aria-label=&quot;배경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배경&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[cereme.dev]]></title><description><![CDATA[cereme(Sang yun Pae)'s Tech blog]]></description><link>https://cereme.dev</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 23 Oct 2020 15:44:18 GMT</lastBuildDate><item><title><![CDATA[strapi 간단 사용기 (in 회사 홈페이지)]]></title><description><![CDATA[…]]></description><link>https://cereme.dev/frontend/strapi-on-company-homepage/</link><guid isPermaLink="false">https://cereme.dev/frontend/strapi-on-company-homepage/</guid><pubDate>Sat, 24 Oct 2020 00:10:39 GMT</pubDate><content:encoded>&lt;h2 id=&quot;배경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%EA%B2%BD&quot; aria-label=&quot;배경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배경&lt;/h2&gt;
 &lt;p&gt;최근 프론트엔드 동료님께서 &lt;a href=&quot;https://www.herrencorp.com/&quot;&gt;회사 홈페이지&lt;/a&gt;를 새로 만드는 작업을 하셨는데, 프론트엔드 동료로서 만드는데 참견을 좀 할 기회가 있었습니다.&lt;/p&gt;
 &lt;p&gt;기획서와 퍼블리싱 초안을 보고 가장 먼저 눈에 들어온 것은 “채용공고” 섹션이 있고, 채용공고에 변동이 있을 때 마다 마크업을 수정해서 재배포를 하겠다는 설명이였습니다…&lt;/p&gt;
 &lt;p&gt;도저히 참을 수 없어서 회사 홈페이지 기획을 맡아주신 동료님께 가서 “이 부분을 계속 개발팀이 마크업을 새로 만들고 배포하는 식으로 가면 상당히 피로가 심할 것 같습니다. 백엔드를 적용하는게 어떨까요?”라고 여쭤봤는데 다음과 같은 대답이 돌아왔습니다.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“근데 백엔드 만들어서 붙이려면 또 며칠 이상씩 걸리잖아요?”&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;당시에 SNS, 뉴스레터에서 strapi를 접하고 한 번 써볼 기회를 노리고 있던 터라 바로 대답했습니다.&lt;/p&gt;
+&lt;p&gt;당시에 SNS, 뉴스레터에서 Headless CMS인 strapi를 접하고 한 번 써볼 기회를 노리고 있던 터라 바로 대답했습니다.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“아뇨, 하루 안에 됩니다.”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id=&quot;세팅&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%84%B8%ED%8C%85&quot; aria-label=&quot;세팅 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;세팅&lt;/h2&gt;
-&lt;p&gt;아마 트래픽이 폭증할 리는 없을테니(…) ec2 인스턴스를 만들고 strapi를 설치했습니다.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://strapi.io/&quot;&gt;strapi&lt;/a&gt;는 &lt;a href=&quot;https://ghost.org/&quot;&gt;Ghost&lt;/a&gt; 다음으로 Github star가 제일 많은 Headless CMS 프로젝트입니다.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1200px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 65.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAB2HAAAdhwGP5fFlAAADCklEQVQ4y1WQa2xTZRzGz2fWzW5oW7oJ4WLYaMFK0ASUQKJghKnohoLA5BKD+sFvTtAEkYUYEkKI8QOJCR9ZotFMdCzjMifb6OBDDWLCGK2lsNFDb6ent9OOtj/f9x0l+CRP/uf9357/c7QG1zJqrHe2qVj3zFLcS17k1fadbHy7i9e37Ma3ZhMb3trF5o59qsf2qLc2U6PW4BQfNcqkaLC7vcxbtIr5ratZ5F3LQs8rLGh7mebnXhK5NUqsYd6y/y16vLDe1UadqxWbSyq1Id+yubF5OXYZBZtaltMoRBRl3u3BJlzUO1vVhU9Se8rpweV4niaHF5tDWHB4BIUlhxBq8VHX7BPDrbMUOdvTS7G3rGDu4lVKwC6c1Shdau+61nH42Tc55d7Kn+6PGGjey7hzH595dzNnz0Fc+3uwH/+dRskT52jq6WV1dzevfX2Qd37rZdvYAO+P9LN9fJDFmzrQvvCt5dYbm5lq74TOD6l0dMGWHfywbT8tv5zHNzjKymBSMMHKO2lW+CdY2HeSJYHTeCK/4r3fzwsEBK/j6voA7ZvuA6DfwghcJvfPFcy/RyH8F2d/PMOFWIzxXAZ/1mTMNAg8LNIfCvHd1SEukuTnVJC+TJi+fIQLJFi/Y69YeOx7JKKpDMmsRUJQ4o+Ra6T1GOV8gXzKIJ80oFgkGpki4A9AGQoJkxkjy0MjB1XYvutTtEM9x6mWy+hRnVQySexBjJJlcXFohMlQmHQmS0IslMwVCgTDESHmJ5vPExP9KdNEj8cplIq8V1sokTIMUnIwkaRSqXBpeIzQv3cwzQzptKlqlrgwcnea4ct+yuKIQsEil8urKLF15ydoXx4+phIpI01e2CsWS6ooL7wdDFMqlbDExZISd+9NMzA4pEQK4mJZr1arjxZ+jHbk25PqYVlFnsSwsHVz4jbZbO7xgMT0fZ3RK9ewZmYolmbFK5XZurL8+VdHlRWpPDUdVTEp7PX+dJbrN26iP4ir/L2pKLF4Av/VAOcGLhHS49yYCDI5GVLCuvj37Z17+A/w6sSCjo9oZgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/64a2388e8eded02fc83dae699dd5573f/c1b63/201024_strapi_headless_cms_ranking.png&quot;
+        srcset=&quot;/static/64a2388e8eded02fc83dae699dd5573f/5a46d/201024_strapi_headless_cms_ranking.png 300w,
+/static/64a2388e8eded02fc83dae699dd5573f/0a47e/201024_strapi_headless_cms_ranking.png 600w,
+/static/64a2388e8eded02fc83dae699dd5573f/c1b63/201024_strapi_headless_cms_ranking.png 1200w,
+/static/64a2388e8eded02fc83dae699dd5573f/203d3/201024_strapi_headless_cms_ranking.png 1322w&quot;
+        sizes=&quot;(max-width: 1200px) 100vw, 1200px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;빠르고 간단하게 dashboard와 JSON response를 내려주는 REST Endpoint 한 개를 만들기에는 제일 적합할 것 같았기 때문에 의심의 여지도 없이 바로 strapi를 사용해서 작업에 착수했습니다.&lt;/p&gt;
+&lt;p&gt;아마 트래픽이 폭증할 리는 없을테니(…) 단일 ec2 인스턴스를 만들고 strapi를 설치했습니다.&lt;/p&gt;
 &lt;p&gt;간단하게 기획으로부터 요구사항을 뽑아내고, 엔티티가 “채용공고” 하나뿐이기 때문에 빠르게 모델링을 했습니다.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -34,7 +58,29 @@
       /&gt;
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;요구사항 중 채용공고를 삭제하지 않고 노출이 되지 않게 하는 부분은 strapi 공식 문서의 &lt;a href=&quot;https://strapi.io/documentation/3.0.0-beta.x/guides/draft.html&quot;&gt;Draft system&lt;/a&gt;을 보고 구현(복붙)했습니다.&lt;/p&gt;
-&lt;p&gt;그리고 Permission plugin에 가서 만든 모델(Collection type)의 접근 권한을 Public으로 풀어준 후, 프론트엔드 동료님께 API Endpoint를 전달해드리면 끝입니다!&lt;/p&gt;
+&lt;p&gt;그리고 Permission plugin에 가서 만든 모델(Collection type)의 접근 권한을 Public으로 풀어준 후, 프론트엔드 동료님께 API Endpoint를 전달해드리면 끝입니다.&lt;/p&gt;
+&lt;p&gt;그러면 프론트엔드 동료님은 &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 568px;&quot;
+    &gt;
+      &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 85%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAYAAADdRIy+AAAACXBIWXMAAB2HAAAdhwGP5fFlAAABt0lEQVQ4y51Ui3KjMAzM//9iQhOgbY6XbbCxwcbsyeLSXjJJ21QzGnuArFbaVXbOWizLgnVd72aKy/mT2MUY4b2H0QbOOYQQMM8z7L9CTwOmjxOA0RrOboBcwBi+P89w3RhqAkysLgzHcfwd4CdDw2eMCwH5DXz5BLyd6aMiDJgYzrNnRpPz8PNjRgy0fiPKpZrqFdpGQBsHNXXQ0wAxCvSux3v/Bkn3W8a3yYApGVD1eHnJuN38pNApjTlOmMKWSww/s80FsK5r7Pd7iE5ADApVX6ExNTrT8jyddxjnkc8pODotrB/pmcFA3QzUyRVgVVXI85yBjdXI2gO3bCZNbStIK9CNLY8g/VhZSe87tFTwz3DGuX+/BmyaBkWZY1ATiRRhg8Gz8SFKSikliqLgHHqN7hzQy5lEjbw1KZNvvxUlXdLHQghkWYZTfiKBFG0OGdxYshFZygfepDWu1xb6imECPBwOPMe0Ob1VqEkYaQTqoWKRtpk1LMw9k7OxL6Cp5ePxiPK1JOs4VriQJJImscQJpSzwpkq6H0mU4T7gQtsRwsJtpfif8Vd/aY/a3nne34jfxL0Z/gUZtzS8qEwjNQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;image&quot;
+        title=&quot;image&quot;
+        src=&quot;/static/91579dc3a756a58169a8318fcb9b64d3/10e91/201024_strapi_json_response.png&quot;
+        srcset=&quot;/static/91579dc3a756a58169a8318fcb9b64d3/5a46d/201024_strapi_json_response.png 300w,
+/static/91579dc3a756a58169a8318fcb9b64d3/10e91/201024_strapi_json_response.png 568w&quot;
+        sizes=&quot;(max-width: 568px) 100vw, 568px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;이런 형태의 JSON response를 파싱해서 element를 그려주기만 하면 됩니다!&lt;/p&gt;
 &lt;h2 id=&quot;결과물&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B2%B0%EA%B3%BC%EB%AC%BC&quot; aria-label=&quot;결과물 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;결과물&lt;/h2&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
