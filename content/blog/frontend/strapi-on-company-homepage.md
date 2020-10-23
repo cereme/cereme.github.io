@@ -16,13 +16,19 @@ draft: false
 
 > "근데 백엔드 만들어서 붙이려면 또 며칠 이상씩 걸리잖아요?"
 
-당시에 SNS, 뉴스레터에서 strapi를 접하고 한 번 써볼 기회를 노리고 있던 터라 바로 대답했습니다.
+당시에 SNS, 뉴스레터에서 Headless CMS인 strapi를 접하고 한 번 써볼 기회를 노리고 있던 터라 바로 대답했습니다.
 
 > "아뇨, 하루 안에 됩니다."
 
 ## 세팅
 
-아마 트래픽이 폭증할 리는 없을테니(...) ec2 인스턴스를 만들고 strapi를 설치했습니다.
+[strapi](https://strapi.io/)는 [Ghost](https://ghost.org/) 다음으로 Github star가 제일 많은 Headless CMS 프로젝트입니다.
+
+![image](./images/201024_strapi_headless_cms_ranking.PNG)
+
+빠르고 간단하게 dashboard와 JSON response를 내려주는 REST Endpoint 한 개를 만들기에는 제일 적합할 것 같았기 때문에 의심의 여지도 없이 바로 strapi를 사용해서 작업에 착수했습니다.
+
+아마 트래픽이 폭증할 리는 없을테니(...) 단일 ec2 인스턴스를 만들고 strapi를 설치했습니다.
 
 간단하게 기획으로부터 요구사항을 뽑아내고, 엔티티가 "채용공고" 하나뿐이기 때문에 빠르게 모델링을 했습니다.
 
@@ -30,7 +36,13 @@ draft: false
 
 요구사항 중 채용공고를 삭제하지 않고 노출이 되지 않게 하는 부분은 strapi 공식 문서의 [Draft system](https://strapi.io/documentation/3.0.0-beta.x/guides/draft.html)을 보고 구현(복붙)했습니다.
 
-그리고 Permission plugin에 가서 만든 모델(Collection type)의 접근 권한을 Public으로 풀어준 후, 프론트엔드 동료님께 API Endpoint를 전달해드리면 끝입니다!
+그리고 Permission plugin에 가서 만든 모델(Collection type)의 접근 권한을 Public으로 풀어준 후, 프론트엔드 동료님께 API Endpoint를 전달해드리면 끝입니다.
+
+그러면 프론트엔드 동료님은 
+
+![image](./images/201024_strapi_json_response.PNG)
+
+이런 형태의 JSON response를 파싱해서 element를 그려주기만 하면 됩니다!
 
 ## 결과물
 
