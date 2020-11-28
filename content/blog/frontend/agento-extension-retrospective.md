@@ -8,9 +8,9 @@ draft: false
 
 # 프로젝트 소개
 
-![image](./images/agento-toss-rocketpunch.PNG)
-![image](./images/agento-toss-jobplanet.PNG)
-![image](./images/agento-toss-wanted.PNG)
+![image](./images/agento-toss-rocketpunch.png)
+![image](./images/agento-toss-jobplanet.png)
+![image](./images/agento-toss-wanted.png)
 ![image](./images/agento-popup.PNG)
 
 로켓펀치, 원티드, 잡플래닛 등 요즘 IT업계에서 특히 많이 사용되고 있는 구인 구직 사이트에서 편하게 해당 업체의 병역지정업체 여부를 보여주는 확장프로그램입니다!
