@@ -1,5 +1,5 @@
 ---
-title: 두 번 만드는 i18n: Flask-babel to next-i18next
+title: '두 번 만드는 i18n: Flask-babel to next-i18next'
 date: 2021-03-29 21:11:32
 category: frontend
 thumbnail: { thumbnailSrc }
