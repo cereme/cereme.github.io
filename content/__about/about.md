@@ -32,9 +32,9 @@ type: about
 
 # Experiences
 
-## (주)헤렌 (2019.12 ~)
+## (주)헤렌 (2019.12 ~ 2021.05)
 
-- Position : 인스타팀 팀리드(2020.05~), Backend/DevOps developer
+- Position : 인스타팀 팀리드(2020.05 ~ 2021.05), Backend/DevOps developer
 
 ### Projects
 
