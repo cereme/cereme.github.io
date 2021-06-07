@@ -32,6 +32,10 @@ type: about
 
 # Experiences
 
+## (주)하이퍼커넥트 (2021.06 ~ )
+
+- Position : Hyper-X Web Frontend Software Engineer
+
 ## (주)헤렌 (2019.12 ~ 2021.05)
 
 - Position : 인스타팀 팀리드(2020.05 ~ 2021.05), Backend/DevOps developer
@@ -77,6 +81,7 @@ type: about
 - terraform-aws-elastic-beanstalk-environment, [Update alb_zone_id of some missing regions #137](https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment/pull/137)
 - react-native-file-picker, [Change to support AndroidX #41](https://github.com/luisfuertes/react-native-file-picker/pull/41/commits)
 - react-native-device-info, [Fix wrong example code of hasNotch() in docs #845](https://github.com/react-native-device-info/react-native-device-info/pull/845)
+- passport-kakao, [Update how to use #23](https://github.com/rotoshine/passport-kakao/pull/23)
 
 ## Etc
 
