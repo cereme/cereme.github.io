@@ -34,7 +34,13 @@ type: about
 
 ## (주)하이퍼커넥트 (2021.06 ~ )
 
-- Position : Hyper-X Web Frontend Software Engineer
+- Position : Metaverse Studio Web Frontend Software Engineer
+
+## Projects
+
+- Slide (2021.12~) : Unity, Typescript
+
+- Picai (~2021.12) : React native
 
 ## (주)헤렌 (2019.12 ~ 2021.05)
 
